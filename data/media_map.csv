@@ -1,0 +1,1170 @@
+media_id,n_strains,media,name,source,medium_ph,link
+514,1533,514,BACTO MARINE BROTH (DIFCO 2216),DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium514.pdf
+65,1466,65,GYM STREPTOMYCES MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium65.pdf
+830,1096,830,R2A MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium830.pdf
+92,800,92,TRYPTICASE SOY YEAST EXTRACT MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium92.pdf
+1,793,1,NUTRIENT AGAR,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1.pdf
+693,771,693,COLUMBIA BLOOD MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium693.pdf
+535,659,535,TRYPTICASE SOY BROTH AGAR,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium535.pdf
+220,631,220,CASO AGAR (Merck 105458),DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium220.pdf
+11,304,11,MRS MEDIUM,DSMZ,6.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium11.pdf
+104,263,104,PYG MEDIUM (modified),DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium104.pdf
+84,179,84,ROLLED OATS MINERAL MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium84.pdf
+553,163,553,GPHF-MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium553.pdf
+645,161,645,MIDDLEBROOK MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium645.pdf
+58,143,58,BIFIDOBACTERIUM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium58.pdf
+554,142,554,N-Z-AMINE-MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium554.pdf
+215,136,215,BHI MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium215.pdf
+110,122,110,CHOPPED MEAT MEDIUM WITH CARBOHYDRATES,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium110.pdf
+9,106,9,VY/2 AGAR,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium9.pdf
+1a,104,1a,REACTIVATION WITH LIQUID MEDIUM 1,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1a.pdf
+545,100,545,TRYPTONE SOYA BROTH (TSB),DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium545.pdf
+78,92,78,CHOPPED MEAT MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium78.pdf
+339,87,339,WILKINS-CHALGREN ANAEROBE BROTH,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium339.pdf
+104b,83,104b,PY + X MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium104b.pdf
+53,78,53,CORYNEBACTERIUM AGAR,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium53.pdf
+830c,77,830c,REACTIVATION WITH LIQUID MEDIUM 830,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium830c.pdf
+1076b,75,1076b,SP4-Z MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1076b.pdf
+381,75,381,LB (Luria-Bertani) MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium381.pdf
+98,65,98,RHIZOBIUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium98.pdf
+429,62,429,COLUMBIA BLOOD AGAR,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium429.pdf
+585,58,585,BCYE AGAR,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium585.pdf
+252,57,252,STARCH - MINERAL SALT - AGAR (STMS),DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium252.pdf
+514c,56,514c,REACTIVATION WITH LIQUID MEDIUM 514,DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium514c.pdf
+104c,55,104c,PY + X MEDIUM (N2/CO2),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium104c.pdf
+63,49,63,DESULFOVIBRIO (POSTGATE) MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium63.pdf
+641,47,641,DESULFOVIBRIO (MV) MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium641.pdf
+83,47,83,CZAPEK PEPTONE AGAR,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium83.pdf
+1203a,45,1203a,FASTIDIOUS ANAEROBE BROTH,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1203a.pdf
+987,43,987,ISP 2 MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium987.pdf
+514f,40,514f,MARINE BROTH (ROTH CP73),DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium514f.pdf
+514b,38,514b,MEDIUM 514 plus additional salt,DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium514b.pdf
+535b,38,535b,REACTIVATION WITH LIQUID MEDIUM,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium535b.pdf
+1560,37,Other,MARINES PLANCTOMYCES MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1560.pdf
+31,34,Other,ALKALINE NUTRIENT AGAR,DSMZ,9.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium31.pdf
+428,32,Other,HETEROTROPHIC MEDIUM H3P,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium428.pdf
+535a,32,Other,TRYPTICASE SOY BROTH AGAR+BLOOD,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium535a.pdf
+195c,31,Other,DESULFOBACTER SP. MEDIUM (LACTATE),DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium195c.pdf
+1203,30,Other,FASTIDIOUS ANAEROBE AGAR,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1203.pdf
+27,29,Other,RHODOSPIRILLACEAE MEDIUM (modified),DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium27.pdf
+736,29,Other,RICH MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium736.pdf
+514a,28,Other,HALF STRENGTH BACTO MARINE BROTH,DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium514a.pdf
+402,27,Other,ALICYCLOBACILLUS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium402.pdf
+28,26,Other,PFENNIG'S MEDIUM I ,DSMZ,7.199999999999999,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium28.pdf
+339a,26,Other,WILKINS-CHALGREN ANAEROBE BROTH (N2/CO2),DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium339a.pdf
+503,26,Other,ANAEROBIC FRESHWATER (FWM) MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium503.pdf
+514d,26,Other,MODIFIED BACTO MARINE BROTH,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium514d.pdf
+110a,25,Other,CMC MEDIUM (N2/CO2),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium110a.pdf
+354,24,Other,LÖWENSTEIN-JENSEN MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium354.pdf
+383,24,Other,DESULFOBACTERIUM MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium383.pdf
+67,24,Other,CY-AGAR,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium67.pdf
+81,24,Other,MINERAL MEDIUM FOR CHEMOLITHOTROPHIC GROWTH (H-3),DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium81.pdf
+948,24,Other,OXOID NUTRIENT BROTH,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium948.pdf
+1426,21,Other,SSE/HD 1:10 MEDIUM,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1426.pdf
+464,21,Other,PLATE COUNT AGAR,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium464.pdf
+621,20,Other,PYGV AGAR,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium621.pdf
+403,19,Other,BSK-MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium403.pdf
+785,19,Other,BOGORIELLA MEDIUM,DSMZ,9.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium785.pdf
+194,18,Other,DESULFOBULBUS SP. MEDIUM (FRESHWATER),DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium194.pdf
+220a,18,Other,REACTIVATION WITH TRYPTONE SOYA BROTH,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium220a.pdf
+1040,17,Other,MARIDESULFOVIBRIO MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1040.pdf
+105,17,Other,GLUCONOBACTER OXYDANS MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium105.pdf
+1484,17,Other,Glycerol-Yeast extract-Peptone Medium,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1484.pdf
+360,17,Other,YPM MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium360.pdf
+1166,16,Other,DESULFONATRONUM THIOAUTOTROPHICUM MEDIUM,DSMZ,9.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1166.pdf
+372,16,Other,HALOBACTERIA MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium372.pdf
+595,16,Other,CAULOBACTER MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium595.pdf
+231,15,Other,PEDIOCOCCUS DAMNOSUS MEDIUM,DSMZ,5.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium231.pdf
+548,15,Other,BENNETT'S AGAR,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium548.pdf
+640,15,Other,CALDICELLULOSIRUPTOR MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium640.pdf
+1159,14,Other,GYM STREPTOMYCES MEDIUM 10% NACL,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1159.pdf
+311c,14,Other,SPOROMUSA ACIDOVORANS MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium311c.pdf
+852,14,Other,GYP GLUCOSE-YEAST-PEPTONE MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium852.pdf
+804,13,Other,HAEMOPHILUS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium804.pdf
+942,13,Other,AGAR WITH E. COLI AS FEED,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium942.pdf
+1122,12,Other,MEDIUM K,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1122.pdf
+1193,12,Other,CULTIVATION MEDIUM FOR CHLAMYDIAE,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1193.pdf
+163,12,Other,HALODESULFOVIBRIO (POSTGATE) MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium163.pdf
+330,12,Other,RUMEN BACTERIA MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium330.pdf
+441,12,Other,DIAZOTROPHIC MEDIUM (RBA),DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium441.pdf
+878,12,Other,THERMUS 162 MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium878.pdf
+960,12,Other,PELOTOMACULUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium960.pdf
+11b,11,Other,MRS MEDIUM (pre-reduced),DSMZ,6.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium11b.pdf
+214,11,Other,GYM+S MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium214.pdf
+513,11,Other,PP-MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium513.pdf
+520,11,Other,RUMINOCLOSTRIDIUM CELLULOLYTICUM (CM3) MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium520.pdf
+7,11,Other,ANCYLOBACTER - SPIROSOMA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium7.pdf
+704,11,Other,BUTYRIVIBRIO SP. MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium704.pdf
+1027,10,Other,YEAST STARCH AGAR (A),DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1027.pdf
+142,10,Other,THIOMICROSPIRA PELOPHILA MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium142.pdf
+144,10,Other,THERMOANAEROBACTER BROCKII MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium144.pdf
+193,10,Other,DESULFOBACTER MEDIUM,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium193.pdf
+255,10,Other,CLOSTRIDIUM (GS) MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium255.pdf
+882,10,Other,LEPTOSPIRILLUM (HH) MEDIUM,DSMZ,2.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium882.pdf
+925,10,Other,ALKALIPHILIC SULPHUR RESPIRING STRAINS MEDIUM,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium925.pdf
+1190,9,Other,FERROUS SULFATE/YEAST EXTRACT MEDIUM,DSMZ,2.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1190.pdf
+123,9,Other,MARINE AGAR,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium123.pdf
+215b,9,Other,BHI MEDIUM WITH ADDITIONAL GLUCOSE,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium215b.pdf
+217,9,Other,BHI/2 MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium217.pdf
+232,9,Other,MRS MEDIUM WITH CYSTEINE,DSMZ,6.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium232.pdf
+429c,9,Other,COLUMBIA-GLUCOSE-CYSTEINE-AGAR,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium429c.pdf
+462,9,Other,MINERAL MEDIUM (BRUNNER) WITH VITAMINS,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium462.pdf
+504,9,Other,ANAEROBIC SEAWATER (SWM) MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium504.pdf
+714,9,Other,GEO-MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium714.pdf
+1011,8,Other,SULFURIMONAS MJ MEDIUM,DSMZ,6.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1011.pdf
+1015,8,Other,YPGA,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1015.pdf
+1031a,8,Other,YMA-MEDIUM (modified),DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1031a.pdf
+1113,8,Other,LEPTOSPIRA-MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1113.pdf
+1153,8,Other,R3 A MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1153.pdf
+13,8,Other,BACILLUS ACIDOCALDARIUS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium13.pdf
+1494,8,Other,. OMIZ-PAT Medium (modified),DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1494.pdf
+1611,8,Other,YCFA MEDIUM (modified),DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1611.pdf
+195a,8,Other,DESULFUROMUSA MEDIUM,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium195a.pdf
+298,8,Other,PELOBACTER PROPIONICUS MEDIUM (FRESHWATER),DSMZ,7.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium298.pdf
+383b,8,Other,DESULFONAUTICUS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium383b.pdf
+457,8,Other,MINERAL MEDIUM (BRUNNER),DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium457.pdf
+600a,8,Other,M13a (PIRELLULA) MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium600a.pdf
+628,8,Other,MMB MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium628.pdf
+630,8,Other,MODIFIED THERMUS 162 MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium630.pdf
+634c,8,Other,RCM MEDIUM (N2/CO2),DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium634c.pdf
+838,8,Other,GEOANAEROBACTER MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium838.pdf
+86,8,Other,CASTENHOLZ MEDIUM,DSMZ,8.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium86.pdf
+904,8,Other,MARINITOGA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium904.pdf
+921,8,Other,METHYLOSARCINA QUISQUILLARUM AND M. FIBRATA MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium921.pdf
+1004,7,Other,ANAEROLINEA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1004.pdf
+1492,7,Other,HALF STRENGTH R2A,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1492.pdf
+1504,7,Other,CM MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1504.pdf
+172,7,Other,CYTOPHAGA (marine) MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium172.pdf
+195,7,Other,DESULFOBACTER CURVATUS MEDIUM,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium195.pdf
+246,7,Other,SEA WATER AGAR,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium246.pdf
+380,7,Other,MAGNETOSPIRILLUM MEDIUM,DSMZ,6.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium380.pdf
+411,7,Other,CLOSTRIDIUM ACETOBUTYLICUM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium411.pdf
+426,7,Other,ORGANIC MEDIUM 79,DSMZ,7.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium426.pdf
+465,7,Other,MINERAL MEDIUM PH 7.25,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium465.pdf
+593,7,Other,10% MH MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium593.pdf
+656,7,Other,YEAST-STARCH-AGAR(B),DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium656.pdf
+940,7,Other,HORIKOSHI ALKALINE,DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium940.pdf
+1007,6,Other,MINERAL MEDIUM,DSMZ,5.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1007.pdf
+1052,6,Other,BOSEA MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1052.pdf
+124,6,Other,DESULFOFARCIMEN MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium124.pdf
+1266,6,Other,MEDIUM VL55,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1266.pdf
+1429,6,Other,SABOURAUD GLUCOSE MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1429.pdf
+1713,6,Other,GAM Broth (Gifu Anaerobic Medium Broth),DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1713.pdf
+219,6,Other,MYCOBACTERIUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium219.pdf
+250,6,Other,PEPTONE MEAT EXTRACT GLYCEROL AGAR,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium250.pdf
+293,6,Other,PROPIONIGENIUM MODESTUM MEDIUM (MARINE),DSMZ,7.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium293.pdf
+40,6,Other,PFENNIG'S MEDIUM II WITH SALT,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium40.pdf
+413,6,Other,BTU MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium413.pdf
+606,6,Other,COLBY AND ZATHMAN MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium606.pdf
+621a,6,Other,EKHO LAKE STRAINS MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium621a.pdf
+671,6,Other,THERMOANAEROBACTER (BA) MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium671.pdf
+776,6,Other,MICROLUNATUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium776.pdf
+826,6,Other,GEOBACTER SULFURREDUCENS MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium826.pdf
+906,6,Other,DETHIOSULFOVIBRIO MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium906.pdf
+1008,5,Other,SEDIMINISPIROCHAETA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1008.pdf
+1009,5,Other,TCG MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1009.pdf
+1029,5,Other,BBL ACTINOMYCES BROTH,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1029.pdf
+1081,5,Other,HORIKOSHI-1 MEDIUM,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1081.pdf
+1210a,5,Other,THERMOSULFURIMONAS MEDIUM,DSMZ,6.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1210a.pdf
+1240,5,Other,STARCH-MINERAL SALT-AGAR + 10% NACL,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1240.pdf
+1285,5,Other,GRANULICELLA PALUDICOLA MEDIUM,DSMZ,4.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1285.pdf
+135,5,Other,ACETOBACTERIUM MEDIUM,DSMZ,7.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium135.pdf
+136,5,Other,VEILLONELLA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium136.pdf
+1372,5,Other,SUCCINATE MINIMAL SALTS MEDIUM (SMS),DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1372.pdf
+1500,5,Other,ACANTHAMOEBA MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1500.pdf
+1536,5,Other,BAP+ MEDIUM FOR FRANKIA,DSMZ,6.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1536.pdf
+1583,5,Other,MEDIUM FOR AMMONIA OXIDIZING BACTERIA (STRAINS FROM SOIL),DSMZ,7.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1583.pdf
+215c,5,Other,BHI MEDIUM FOR STRICT ANAEROBES,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium215c.pdf
+269,5,Other,ACIDIPHILIUM MEDIUM,DSMZ,3.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium269.pdf
+29,5,Other,PFENNIG'S MEDIUM II,DSMZ,6.949999999999999,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium29.pdf
+412,5,Other,ACETOMICROBIUM FAECALIS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium412.pdf
+429b,5,Other,CHOCOLATE AGAR,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium429b.pdf
+496,5,Other,PSEUDODESULFOVIBRIO MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium496.pdf
+500,5,Other,CLOSTRIDIUM (GV) MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium500.pdf
+503b,5,Other,FWM MEDIUM (PERCHLORATE),DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium503b.pdf
+507,5,Other,CARBOXYDOTHERMUS MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium507.pdf
+51,5,Other,SPHAEROTILUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium51.pdf
+549,5,Other,CM + YE MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium549.pdf
+550,5,Other,"CYC-MEDIUM (modified following Cross and Attwell,1973)",DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium550.pdf
+603,5,Other,ANCALOMICROBIUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium603.pdf
+605,5,Other,NUTRIENT AGAR (OXOID CM3),DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium605.pdf
+607,5,Other,M13 VERRUCOMICROBIUM MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium607.pdf
+634,5,Other,RCM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium634.pdf
+636,5,Other,ISP MEDIUM 2 WITH 5% NaCl,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium636.pdf
+638,5,Other,LACTOBACILLUS MEDIUM III,DSMZ,6.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium638.pdf
+684,5,Other,SYNTROPHOBACTER (MPOB) MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium684.pdf
+82,5,Other,BHI-GLUCOSE MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium82.pdf
+829,5,Other,DESULFUROBACTERIUM MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium829.pdf
+860,5,Other,ANAEROCOLUMNA MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium860.pdf
+861,5,Other,DESULFOFRIGUS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium861.pdf
+898a,5,Other,ANAEROBACILLUS MEDIUM,DSMZ,8.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium898a.pdf
+907,5,Other,PSEUDOMONAS AGAR F,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium907.pdf
+93,5,Other,LACTOBACILLUS MEDIUM II,DSMZ,5.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium93.pdf
+989,5,Other,ACETIC ACID BACTERIUM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium989.pdf
+993,5,Other,ISP 5 MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium993.pdf
+10,4,Other,ZYMOMONAS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium10.pdf
+1070,4,Other,YM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1070.pdf
+1095,4,Other,NATRANAEROBIUS MEDIUM,DSMZ,8.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1095.pdf
+111,4,Other,BEIJERINCKIA MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium111.pdf
+113,4,Other,THIOBACILLUS DENITRIFICANS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium113.pdf
+115,4,Other,VIBRIO NATRIEGENS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium115.pdf
+1205,4,Other,1/2 TRYPTIC SOY BROTH (ANAEROBIC),DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1205.pdf
+122,4,Other,ACETIVIBRIO MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium122.pdf
+125,4,Other,METHYLOBACTERIUM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium125.pdf
+1250,4,Other,DESULFOSPOROSINUS ACIDOPHILUS MEDIUM,DSMZ,5.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1250.pdf
+1271,4,Other,PLEOMORPHOCHAETA MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1271.pdf
+1277a,4,Other,SULFURIFUSTIS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1277a.pdf
+1279,4,Other,HELICOBACTER MEDIUM,DSMZ,5.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1279.pdf
+1293,4,Other,SYMBIOBACTERIUM THERMOPHILUM MEDIUM,DSMZ,7.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1293.pdf
+1302,4,Other,YIM MEDIUM + 10 % NaCl,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1302.pdf
+1346,4,Other,AURANTIMONAS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1346.pdf
+1351,4,Other,R2A MEDIUM WITH SEAWATER,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1351.pdf
+141c,4,Other,METHANOCOCCOIDES MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium141c.pdf
+142a,4,Other,THIOMICRORHABDUS MEDIUM,DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium142a.pdf
+1527,4,Other,SEDIMENTISPHAERA (L21 HS) MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1527.pdf
+1543,4,Other,GY - MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1543.pdf
+1593,4,Other,Cyanobacteria Medium BG11+,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1593.pdf
+162,4,Other,HYPHOMICROBIUM MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium162.pdf
+1715,4,Other,"GAM Broth, mod. (Gifu Anaerobic Medium Broth, modified)",DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1715.pdf
+212,4,Other,SYNTHROPHOMONAS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium212.pdf
+213,4,Other,SYNTHROPHOMONAS MEDIUM (SULFATE FREE),DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium213.pdf
+248,4,Other,OAT FLAKES AGAR WITH YEAST EXTRACT,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium248.pdf
+271,4,Other,ACIDITHIOBACILLUS (APH) MEDIUM,DSMZ,2.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium271.pdf
+311,4,Other,SPOROMUSA MEDIUM (BETAINE),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium311.pdf
+323,4,Other,TREPONEMA SACCHAROPHILUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium323.pdf
+34,4,Other,CARYOPHANON LATUM MEDIUM,DSMZ,7.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium34.pdf
+340,4,Other,CAPNOCYTOPHAGA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium340.pdf
+429e,4,Other,e. COLUMBIA BLOOD AGAR 10%,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium429e.pdf
+508,4,Other,CARBOXYDOTHERMUS MEDIUM (HETEROTROPH),DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium508.pdf
+591,4,Other,HALOBACTEROIDES/HALOINCOLA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium591.pdf
+592,4,Other,THERMOMICROBIUM ROSEUM MEDIUM,DSMZ,8.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium592.pdf
+600,4,Other,M14 (PIRELLULA MARINA) MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium600.pdf
+664,4,Other,PSEUDOTHERMOTOGA ELFII MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium664.pdf
+68,4,Other,HALOTHIOBACILLUS NEAPOLITANUS MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium68.pdf
+697,4,Other,TODD-HEWITT MEDIUM,DSMZ,7.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium697.pdf
+737,4,Other,DPM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium737.pdf
+829c,4,Other,DESULFUROBACTERIUM CRINIFEX MEDIUM,DSMZ,6.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium829c.pdf
+840,4,Other,SERPULINA MURDOCHII MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium840.pdf
+877,4,Other,LUEDEMANN MEDIUM (LUEDEMANN; 1968),DSMZ,8.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium877.pdf
+91,4,Other,PROPIONIBACTERIUM AGAR,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium91.pdf
+923,4,Other,ALKALIBACTERIUM OLIVAPOVLITICUS,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium923.pdf
+935,4,Other,DEFERRIBACTER MEDIUM,DSMZ,6.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium935a.pdf
+950,4,Other,ONR7a MEDIUM,DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium950.pdf
+958,4,Other,VY/4-SWS AGAR,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium958.pdf
+101,3,Other,NUTRIENT AGAR or BROTH WITH NaCl,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium101.pdf
+1011c,3,Other,DESULFOTHERMUS MJ MEDIUM (H2/CO2),DSMZ,6.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1011c.pdf
+1012,3,Other,PEREDIBACTER (DN) MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1012.pdf
+1013,3,Other,HALOBACTERIOVORAX MEDIUM,DSMZ,7.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1013.pdf
+1025,3,Other,MARICAULIS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1025.pdf
+1033,3,Other,THERMUS MEDIUM,DSMZ,8.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1033.pdf
+1042,3,Other,VULCANIBACILLUS MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1042.pdf
+1051,3,Other,TEPIDANAEROBACTER MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1051.pdf
+1055,3,Other,DESULFOVERMICULUS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1055.pdf
+1058,3,Other,THIOHALOPHILUS MEDIUM,DSMZ,7.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1058.pdf
+1101,3,Other,DESULFONATRONOSPIRA MEDIUM,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1101.pdf
+1115,3,Other,CONGREGIBACTER (SYPHC) MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1115.pdf
+1126,3,Other,TELMATOSPIRILLUM MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1126.pdf
+1139,3,Other,PYG MEDIUM (B),DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1139.pdf
+1145,3,Other,MS-MEDIUM (MODIFIED),DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1145.pdf
+1157,3,Other,PYEM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1157.pdf
+1160,3,Other,"PAYNE, SEGHAL & GIBBONS MEDIUM",DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1160.pdf
+1167,3,Other,NSY-MEDIUM FOR POLYNUCLEOBACTER,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1167.pdf
+1191,3,Other,EGGC,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1191.pdf
+1234,3,Other,ACIDITHIOBACILLUS FERRIVORANS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1234.pdf
+1241,3,Other,STARCH - MINERAL SALT - AGAR (STMS) + 15% NaCl,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1241.pdf
+1284,3,Other,GRANULICELLA MEDIUM,DSMZ,4.85,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1284.pdf
+1320,3,Other,HALF STRENGTH R2A MEDIUM IN 75% SEAWATER,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1320.pdf
+1328,3,Other,DEFLUVIITOGA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1328.pdf
+133,3,Other,CARBON MONOXIDE OXIDIZER MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium133.pdf
+1330,3,Other,ASAIA GYP MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1330.pdf
+1336,3,Other,SEHGAL AND GIBBONS MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1336.pdf
+1350,3,Other,TRYPTICASE SOY AGAR NA-MG,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1350.pdf
+1352,3,Other,FUCHSIELLA ALKALIACETIGENA MEDIUM,DSMZ,9.15,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1352.pdf
+1388,3,Other,15% MGM-MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1388.pdf
+1412,3,Other,METHYLOTHERMUS MEDIUM,DSMZ,6.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1412.pdf
+1430,3,Other,GLUCONACETOBACTER MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1430.pdf
+1472,3,Other,MODIFIED TRYPTONE SOYA BROTH,DSMZ,10.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1472.pdf
+1578,3,Other,1/10 R2A MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1578.pdf
+1660,3,Other,modified BAP+ (PSA) MEDIUM FOR FRANKIA,DSMZ,6.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1660.pdf
+1668,3,Other,MDM (modified dehority medium),DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1668.pdf
+1695,3,Other,MARINES PLANCTOMYCES MEDIUM MODIFIED I,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1695.pdf
+1722,3,Other,T5 MEDIUM modified,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1722.pdf
+195b,3,Other,DESULFOBULBUS SP. MEDIUM (MARINE),DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium195b.pdf
+198,3,Other,DESULFOSARCINA MEDIUM (BRACKISH WATER),DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium198.pdf
+212a,3,Other,TREPONEMA RECTALE MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium212a.pdf
+240,3,Other,CORYNEBACTERIUM MEDIUM WITH BLOOD,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium240.pdf
+26,3,Other,ACID RHODOSPIRILLACEAE MEDIUM,DSMZ,5.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium26.pdf
+35,3,Other,ACIDITHIOBACILLUS MEDIUM,DSMZ,4.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium35.pdf
+370,3,Other,HELIOBACTERIUM CHLORUM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium370.pdf
+425,3,Other,OATMEAL AGAR,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium425.pdf
+434,3,Other,MARINOCOCCUS ALBUS - MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium434.pdf
+436,3,Other,RUMINOCOCCUS ALBUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium436.pdf
+438,3,Other,BORDET-GENGOU-MEDIUM (DIFCO),DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium438.pdf
+455,3,Other,AMB MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium455.pdf
+466,3,Other,TSBY SALT MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium466.pdf
+467,3,Other,OTTOW MEDIUM,DSMZ,8.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium467.pdf
+480,3,Other,DESULFURELLA MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium480.pdf
+534,3,Other,MODIFIED SME MEDIUM,DSMZ,6.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium534.pdf
+54b,3,Other,CLOSTRIDIUM SP. MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium54b.pdf
+613,3,Other,THERMOTOGA TF(C) MEDIUM,DSMZ,6.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium613.pdf
+616,3,Other,ALKALITHERMOBACTER MEDIUM,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium616.pdf
+665,3,Other,SULFOBACILLUS MEDIUM,DSMZ,2.15,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium665.pdf
+670,3,Other,ACIDIFERROBACTER (MS) MEDIUM,DSMZ,2.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium670.pdf
+71,3,Other,ACIDITHIOBACILLUS THIOOXIDANS MEDIUM,DSMZ,4.550000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium71.pdf
+718,3,Other,PETROTOGA MEDIUM,DSMZ,6.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium718.pdf
+740,3,Other,FERVIDOBACTERIUM TF(A) MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium740.pdf
+750,3,Other,MEDIUM FOR MARINE METHYLOTROPHS,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium750.pdf
+755,3,Other,HALOBACILLUS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium755.pdf
+76,3,Other,GOTTSCHALKIA MEDIUM,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium76.pdf
+767,3,Other,ERYTHROMICROBIUM AND ROSEOCOCCUS MEDIUM,DSMZ,7.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium767.pdf
+792a,3,Other,THERMOVIBRIO AMMONIFICANS MEDIUM,DSMZ,5.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium792a.pdf
+8,3,Other,"BACILLUS ""RACEMILACTICUS"" MEDIUM",DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium8.pdf
+813,3,Other,DESULFONATRONUM MEDIUM,DSMZ,8.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium813.pdf
+813b,3,Other,DESULFONATRONUM LACUSTRE MEDIUM,DSMZ,8.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium813b.pdf
+830a,3,Other,MEDIUM R2A MODIFIED,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium830a.pdf
+830d,3,Other,R2A MEDIUM (MICROAEROBIC),DSMZ,5.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium830d.pdf
+846,3,Other,AMINOMONAS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium846.pdf
+851,3,Other,GLUCOSE SULFIDE MEDIUM,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium851.pdf
+869,3,Other,ANAEROBIC TRYPTIC SOY BROTH MEDIUM,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium869.pdf
+86a,3,Other,MODIFIED CASTENHOLZ MEDIUM,DSMZ,7.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium86a.pdf
+871,3,Other,GYM + SEAWATER,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium871.pdf
+879,3,Other,CLOSTRIDIUM LJUNGDAHLII MEDIUM,DSMZ,5.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium879.pdf
+899,3,Other,CALDANAEROBACTER MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium899.pdf
+900,3,Other,ACETOBACTERIUM TUNDRAE MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium900.pdf
+904a,3,Other,MARINITOGA HYDROGENITOLERANS MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium904a.pdf
+910,3,Other,MODIFIED CM+YE MEDIUM (B),DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium910.pdf
+946a,3,Other,CALDITHRIX MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium946a.pdf
+959,3,Other,PETROTOGA OLEARIA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium959.pdf
+967,3,Other,TEREDINIBACTER TURNERAE MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium967.pdf
+993b,3,Other,MODIFIED ISP5 MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium993b.pdf
+1011a,2,Other,THIOBACTER MJ MEDIUM,DSMZ,6.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1011a.pdf
+1016,2,Other,IDIOMARINA MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1016.pdf
+1019,2,Other,ROUF'S MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1019.pdf
+1024,2,Other,NITRATIRUPTOR AND NITRATIFRACTOR MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1024.pdf
+1026,2,Other,XED-AGAR,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1026.pdf
+1037,2,Other,THIOMONAS DELICATA MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1037.pdf
+1041,2,Other,DESULFUROMUSA FERRIREDUCENS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1041.pdf
+1044,2,Other,GLUCONACETOBACTER RHAETICUS MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1044.pdf
+1047,2,Other,DIFCO RAKA-RAY NO.3 MEDIUM,DSMZ,5.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1047.pdf
+104a,2,Other,ANAEROBACULUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium104a.pdf
+1058a,2,Other,THIOHALOSPIRA HALOPHILA MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1058a.pdf
+1058b,2,Other,HALOTHIOBACILLUS HL2 MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1058b.pdf
+1058d,2,Other,THIOHALOMONAS DENITRIFICANS MEDIUM,DSMZ,7.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1058d.pdf
+1062,2,Other,DESULFITOBACTERIUM (PCE II) MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1062.pdf
+1064,2,Other,BREVIBACILLUS LEVICKII MEDIUM,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1064.pdf
+1087,2,Other,MANNITOL-YEAST EXTRACT-PEPTONE (MYP),DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1087.pdf
+1104,2,Other,DETHIOBACTER MEDIUM,DSMZ,9.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1104.pdf
+1105,2,Other,NITRILIRUPTOR ALKALIPHILUS MEDIUM,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1105.pdf
+1124,2,Other,HD (1:10 diluted),DSMZ,5.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1124.pdf
+1132,2,Other,LC 2,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1132.pdf
+1140,2,Other,PYG MEDIUM (E),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1140.pdf
+1144,2,Other,SINGULISPHAERA MEDIUM,DSMZ,5.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1144.pdf
+1161,2,Other,DUBOS SALTS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1161.pdf
+1163a,2,Other,OCEANOTOGA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1163a.pdf
+1173,2,Other,MODIFIED MEDIUM 514,DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1173.pdf
+1180,2,Other,METHYLOMICROBIUM MEDIUM,DSMZ,8.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1180.pdf
+119,2,Other,METHANOBACTERIUM MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium119.pdf
+1199,2,Other,K7 MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1199.pdf
+1220,2,Other,ACIDOSOMA MEDIUM,DSMZ,5.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1220.pdf
+1235,2,Other,XYLAN MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1235.pdf
+1236,2,Other,THERMOSINUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1236.pdf
+1238,2,Other,WOODSHOLEA MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1238.pdf
+1242,2,Other,ALGORIPHAGUS ALKALIPHILUS MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1242.pdf
+1247,2,Other,TYB,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1247.pdf
+1261,2,Other,ISP 2 MEDIUM WITH 10% NACL,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1261.pdf
+1263,2,Other,SPIROCHAETA DISSIPATITROPHA MEDIUM,DSMZ,9.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1263.pdf
+1266a,2,Other,MEDIUM GY VL55,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1266a.pdf
+1267,2,Other,FERRIPHASELUS (ES) MEDIUM,DSMZ,6.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1267.pdf
+1274,2,Other,YEAST EXTRACT-STARCH AGAR (50% MARINE WATER),DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1274.pdf
+1277,2,Other,SULFURICELLA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1277.pdf
+1295,2,Other,GYP MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1295.pdf
+1296,2,Other,M1DG-MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1296.pdf
+1304,2,Other,SULFURITALEA MEDIUM,DSMZ,6.85,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1304.pdf
+1321,2,Other,ACIDIHALOBACTER FERROOXIDANS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1321.pdf
+1335,2,Other,MODIFIED T5 MEDIUM,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1335.pdf
+1337,2,Other,METHYLOPHAGA MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1337.pdf
+1338,2,Other,LB MEDIUM WITH CARBONATES,DSMZ,9.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1338.pdf
+1341,2,Other,MIN E - METHYLOVERSATILIS MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1341.pdf
+1354,2,Other,BACTO MARINE BROTH WITH NA-ACETATE,DSMZ,7.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1354.pdf
+1360,2,Other,HIPPEA JASONIAE MEDIUM,DSMZ,4.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1360.pdf
+1375,2,Other,HALANAEROBACTER JERIDENSE MEDIUM,DSMZ,8.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1375.pdf
+1381,2,Other,½ S° HELIORESTIS MEDIUM,DSMZ,9.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1381.pdf
+140,2,Other,RUMINICLOSTRIDIUM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium140.pdf
+1405,2,Other,PYG MEDIUM MODIFIED,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1405.pdf
+1417,2,Other,MMB MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1417.pdf
+1423,2,Other,METHYLOSINUS MEDIUM MM2,DSMZ,5.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1423.pdf
+1451,2,Other,DEFERRISOMA MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1451.pdf
+1459,2,Other,THERMOHALOBACTER MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1459.pdf
+1464,2,Other,CHITINIVIBRIO MEDIUM,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1464.pdf
+1474,2,Other,PROLIXIBACTER MEDIUM GYSW,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1474.pdf
+1495,2,Other,AQUASPIRILLUM MEDIUM II,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1495.pdf
+1505,2,Other,PROTEINIVORAX MEDIUM,DSMZ,8.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1505.pdf
+1506,2,Other,HIGH MAGNESIUM MEDIUM,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1506.pdf
+1515,2,Other,OCEANIRHABDUS MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1515.pdf
+1517,2,Other,MODIFIED BACTO MARINE BROTH (DIFCO 2216),DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1517.pdf
+1526,2,Other,SALINISPIRA (L21 LS) MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1526.pdf
+1531,2,Other,PLANCTOMYCES PYREFORMIS MEDIUM,DSMZ,6.15,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1531.pdf
+1534,2,Other,MARINIFILUM MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1534.pdf
+1545,2,Other,MODIFIED YMA MEDIUM (HAMBI),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1545.pdf
+1570,2,Other,THIOGRANUM MEDIUM,DSMZ,6.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1570.pdf
+1573,2,Other,T 5 MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1573.pdf
+1585,2,Other,SULFURIFERULA MULTIVORANS MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1585.pdf
+1585a,2,Other,SULFURIFERULA THIOPHILA MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1585a.pdf
+1592,2,Other,Cyanobacteria Medium BG11-,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1592.pdf
+160,2,Other,CYTOPHAGA HUTCHINSONII MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium160.pdf
+1602,2,Other,CY/3-SEAWATER MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1602.pdf
+1609,2,Other,HEART INFUSION BLOOD AGAR,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1609.pdf
+1618,2,Other,TRYPTONE YEAST EXTRACT GLUCOSE MEDIUM (TYG),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1618.pdf
+1635,2,Other,SULFURIFLEXUS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1635.pdf
+1669,2,Other,SCHAEDLER BROTH (Roth; 5772),DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1669.pdf
+1704,2,Other,YMA modified,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1704.pdf
+1716,2,Other,DILUTED TRYPTONE SOYA BROTH (TSB) 1:10,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1716.pdf
+1738,2,Other,METHYLOMONAS MEDIUM (WSC),DSMZ,7.85,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1738.pdf
+1739,2,Other,METHYLOMONAS MEDIUM (SURF),DSMZ,7.85,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1739.pdf
+193b,2,Other,DESULFOFABA MEDIUM,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium193b.pdf
+2,2,Other,BACILLUS PASTEURII MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium2.pdf
+21,2,Other,SARCINA MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium21.pdf
+211,2,Other,THERMOANAEROBACTERIUM MEDIUM,DSMZ,6.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium211.pdf
+216,2,Other,BHI/1 MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium216.pdf
+225,2,Other,SOUR DOUGH MEDIUM,DSMZ,5.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium225.pdf
+226,2,Other,AUREOBACTERIUM TERREGENS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium226.pdf
+227,2,Other,PEDIOCOCCUS HALOPHILUS MEDIUM,DSMZ,6.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium227.pdf
+251,2,Other,PEPTONE - MEAT EXTRACT - SOIL EXTRACT AGAR (PFE),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium251.pdf
+253,2,Other,MEDIUM FOR ECTOTHIORHODOSPIRA,DSMZ,8.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium253.pdf
+254,2,Other,ACETOBACTER PEROXYDANS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium254.pdf
+282,2,Other,METHANOCALDOCOCCUS MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium282.pdf
+305,2,Other,BACILLUS THERMOGLUCOSIDASIUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium305.pdf
+326,2,Other,THERMOCLOSTRIDIUM (A-GÖ) MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium326.pdf
+357,2,Other,FLEXIBACTER CANADENSIS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium357.pdf
+35a,2,Other,THIOMONAS MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium35a.pdf
+364,2,Other,PYEA MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium364.pdf
+377a,2,Other,PALAEOCOCCUS MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium377a.pdf
+386,2,Other,DESULFOLUTIVIBRIO MEDIUM,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium386.pdf
+421,2,Other,CHROMATIUM SALEXIGENS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium421.pdf
+430,2,Other,ECTOTHIORHODOSPIRA ABDELMALEKII MEDIUM,DSMZ,8.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium430.pdf
+456,2,Other,KPL MEDIUM,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium456.pdf
+461,2,Other,MINERAL MEDIUM (NAGEL AND ANDREESEN),DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium461.pdf
+464a,2,Other,REACTIVATION WITH LIQUID MEDIUM 464,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium464a.pdf
+465b,2,Other,MINERAL MEDIUM WITH PCP,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium465b.pdf
+469,2,Other,YM-CATALASE MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium469.pdf
+477,2,Other,ACIDIHALOBACTER PROSPERUS MEDIUM,DSMZ,2.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium477.pdf
+480c,2,Other,DESULFURELLA (K-119) MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium480c.pdf
+486,2,Other,THIOBACILLUS THIOPARUS (TK-m) MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium486.pdf
+498,2,Other,PSEUDOTHERMOTOGA MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium498.pdf
+503a,2,Other,SPOROMUSA TMAO3 MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium503a.pdf
+505,2,Other,FORMIVIBRIO MEDIUM,DSMZ,7.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium505.pdf
+514e,2,Other,MARINE BROTH (ANAEROB),DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium514e.pdf
+516,2,Other,ANAEROCELLUM MEDIUM,DSMZ,7.199999999999999,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium516.pdf
+531,2,Other,SPORULATION MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium531.pdf
+54,2,Other,GLUCOSE YEAST EXTRACT MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium54.pdf
+57,2,Other,AAM MEDIUM,DSMZ,5.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium57.pdf
+573,2,Other,THIOTHRIX MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium573.pdf
+579,2,Other,GEOBACTER MEDIUM,DSMZ,6.85,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium579.pdf
+588,2,Other,HALOBACTEROIDES HALOBIUS MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium588.pdf
+605a,2,Other,NUTRIENT AGAR (OXOID CM3) WITH PHOSPHATE,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium605a.pdf
+617,2,Other,MARINOMONAS VAGA MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium617.pdf
+620,2,Other,2% MH MEDIUM,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium620.pdf
+634a,2,Other,RCM MEDIUM (with Casamino acids),DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium634a.pdf
+634b,2,Other,RCM MEDIUM (with Sea Salts),DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium634b.pdf
+666,2,Other,SUCCINICLASTICUM MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium666.pdf
+685,2,Other,ANAEROBRANCA MEDIUM,DSMZ,8.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium685.pdf
+700,2,Other,ALKALIPHILIC SPIROCHAETE MEDIUM,DSMZ,9.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium700.pdf
+703,2,Other,SEMISOLID BRUCELLA BROTH,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium703.pdf
+710,2,Other,THERMOANAEROBACTER (KoKo) MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium710.pdf
+719,2,Other,ANAEROFILUM MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium719.pdf
+720,2,Other,DESULFITOBACTERIUM HAFNIENSE MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium720.pdf
+732,2,Other,DEHALOBACTER RESTRICTUS MEDIUM (TCE),DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium732.pdf
+732a,2,Other,DESULFUROMONAS MEDIUM (TCE),DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium732a.pdf
+739,2,Other,DESULFONEMA ISHIMOTOI MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium739.pdf
+74,2,Other,THERMUS THERMOPHILUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium74.pdf
+745,2,Other,RHODOBIUM MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium745.pdf
+746,2,Other,RHODOVULUM STRICTUM MEDIUM,DSMZ,7.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium746.pdf
+756c,2,Other,AUTOTROPHIC NITROBACTER MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium756c.pdf
+771,2,Other,SULFUROSPIRILLUM BARNESII MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium771.pdf
+774,2,Other,MEDIUM FOR PARACOCCUS AMINOPHILUS AND P. AMINOVORANS,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium774.pdf
+775,2,Other,R - CW MEDIUM,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium775.pdf
+778,2,Other,THERMOTERRABACTERIUM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium778.pdf
+779,2,Other,CAPNOCYTOPHAGA II MEDIUM,DSMZ,7.699999999999999,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium779.pdf
+782,2,Other,OM-2 MEDIUM,DSMZ,8.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium782.pdf
+784,2,Other,NATRONIELLA MEDIUM,DSMZ,9.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium784.pdf
+790,2,Other,PEPTONE-YEAST MEDIUM with MgSO4,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium790.pdf
+791,2,Other,PORPHYROBACTER TEPIDARIUS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium791.pdf
+793,2,Other,NEOMOORELLA GLYCERINI MEDIUM,DSMZ,6.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium793.pdf
+818,2,Other,CHRYSIOGENES MEDIUM,DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium818.pdf
+833,2,Other,DEHALOSPIRILLUM MEDIUM,DSMZ,7.449999999999999,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium833.pdf
+836,2,Other,DESULFITOBACTERIUM PCP-1 MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium836.pdf
+842,2,Other,HALOANAEROBACTER SALINARIUS MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium842.pdf
+87,2,Other,CHLOROFLEXUS MEDIUM (modified),DSMZ,8.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium87.pdf
+87a,2,Other,CHLOROFLEXUS AGGREGANS MEDIUM,DSMZ,8.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium87a.pdf
+887,2,Other,OS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium887.pdf
+895,2,Other,ANAEROBRANCA GOTTSCHALKII MEDIUM,DSMZ,9.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium895.pdf
+896,2,Other,SOLIDESULFOVIBRIO MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium896.pdf
+898,2,Other,ANOXYBACILLUS MEDIUM,DSMZ,9.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium898.pdf
+903,2,Other,CALDANAEROBIUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium903.pdf
+909,2,Other,TREPONEMA DENTICOLA MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium909.pdf
+913,2,Other,THERMOTOGA PETROPHILA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium913.pdf
+914,2,Other,PTYG-MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium914.pdf
+915,2,Other,BLAUTIA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium915.pdf
+920,2,Other,GLUCONACETOBACTER JOHANNAE AND G. AZOTOCAPTANS MEDIUM,DSMZ,6.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium920.pdf
+929,2,Other,RHODOVULUM IODOSUM AND R. ROBIGINOSUM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium929.pdf
+937,2,Other,PYES MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium937.pdf
+944a,2,Other,MEDIUM MODIFIED FOR DECHLOROMONAS SPP.,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium944a.pdf
+945,2,Other,MARINITOGA PIEZOPHILA MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium945.pdf
+956,2,Other,MEDIUM FOR DSM 14457 AND 14458,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium956.pdf
+964,2,Other,CAMINICELLA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium964.pdf
+965,2,Other,THERMOANAEROBACTER KREATINOPHILUS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium965.pdf
+966,2,Other,R3 MEDIUM,DSMZ,7.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium966.pdf
+968,2,Other,ANAEROBACILLUS ARSENICISELENATIS MEDIUM,DSMZ,9.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium968.pdf
+986,2,Other,PARAMALEDIVIBACTER MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium986.pdf
+992,2,Other,BACILLUS FILIFORMIS MEDIUM,DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium992.pdf
+1001,1,Other,BASAL MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1001.pdf
+1002,1,Other,ECTOTHIORHODOSYNUS MEDIUM,DSMZ,9.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1002.pdf
+1003,1,Other,HYDROGEN-OXYDIZING MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1003.pdf
+1005,1,Other,THERMODESULFOBIUM MEDIUM,DSMZ,5.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1005.pdf
+1006,1,Other,ALLISONELLA MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1006.pdf
+1011b,1,Other,THERMOSIPHO MJ MEDIUM,DSMZ,6.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1011b.pdf
+1011d,1,Other,GALENEA MJ MEDIUM (CO2),DSMZ,6.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1011d.pdf
+1014,1,Other,THIOALKALIVIBRIO HALOPHILUS MEDIUM,DSMZ,8.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1014.pdf
+1017,1,Other,YPG MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1017.pdf
+1020,1,Other,SULFURICURVUM (MBM) MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1020.pdf
+1021,1,Other,SODALIS GLOSSINIDIUS MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1021.pdf
+1022,1,Other,CRYPTOANAEROBACTER MEDIUM,DSMZ,7.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1022.pdf
+1023,1,Other,MANNING MEDIUM,DSMZ,2.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1023.pdf
+1028,1,Other,THERMINCOLA MEDIUM (CO),DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1028.pdf
+1031,1,Other,YMA-MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1031.pdf
+1034,1,Other,ALKALIPHILIC HALOMONAS MEDIUM,DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1034.pdf
+1035,1,Other,COLLIMONAS MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1035.pdf
+1036,1,Other,ACETIVIBRIO ALKALICELLULOSI MEDIUM,DSMZ,8.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1036.pdf
+1038,1,Other,ACIDICALDUS MEDIUM,DSMZ,2.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1038.pdf
+1045,1,Other,THERMUS SP. MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1045.pdf
+1046,1,Other,ANOXYBACILLUS AMYLOLYTICUS MEDIUM,DSMZ,5.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1046.pdf
+1048,1,Other,GAUZE'S SYNTHETIC MEDIUM NO.1,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1048.pdf
+1050,1,Other,DEXTRAN MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1050.pdf
+1053,1,Other,SULFURIMONAS PARALVINELLA MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1053.pdf
+1053a,1,Other,THIOPROFUNDUM LITHOTROPHICUM MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1053a.pdf
+1056,1,Other,DESULFOSALSIMONAS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1056.pdf
+1057,1,Other,ETHANOLIGENES MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1057.pdf
+1058c,1,Other,THIOHALORHABDUS DENITRIFICANS MEDIUM,DSMZ,7.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1058c.pdf
+1058e,1,Other,THIOHALOBACTER THIOCYANATICUS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1058e.pdf
+1059,1,Other,GEOALKALIBACTER MEDIUM,DSMZ,9.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1059.pdf
+1061,1,Other,MODIFIED TH AGAR,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1061.pdf
+1063,1,Other,MICROCELLA ALKALIPHILA MEDIUM,DSMZ,9.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1063.pdf
+1065,1,Other,M1-NOCARDIOPSIS ARABIA MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1065.pdf
+1066,1,Other,MARINOBACTER LUTAOENSIS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1066.pdf
+1068,1,Other,DESULFOPILA MSL86 MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1068.pdf
+1069,1,Other,MODIFIED BIEBL AND PFENNIG'S MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1069.pdf
+1074,1,Other,DESULFOGLAEBA MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1074.pdf
+1075,1,Other,PPES-II AGAR MEDIUM,DSMZ,7.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1075.pdf
+1076,1,Other,SP4 MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1076.pdf
+1078,1,Other,FRIIS MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1078.pdf
+108,1,Other,ACIDIPHILIUM ACIDOPHILUM MEDIUM,DSMZ,4.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium108.pdf
+1081a,1,Other,HORIKOSHI-1 MEDIUM WITH 10% NaCl,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1081a.pdf
+1082,1,Other,AMINIPHILUS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1082.pdf
+1083,1,Other,ACIDULIPROFUNDUM MEDIUM,DSMZ,4.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1083.pdf
+1085,1,Other,HOWARDELLA MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1085.pdf
+1086,1,Other,DESULFATIRHABDIUM MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1086.pdf
+109,1,Other,RHODOPSEUDOMONAS SULFOVIRIDIS MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium109.pdf
+1092,1,Other,THERMOSULFIDIBACTER MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1092.pdf
+1097,1,Other,SULFUROSPIRILLUM MV MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1097.pdf
+1099,1,Other,DESULFOLUNA MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1099.pdf
+1100,1,Other,DESULFACINUM MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1100.pdf
+1101a,1,Other,DESULFONATRONUM ZHILINAE MEDIUM,DSMZ,9.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1101a.pdf
+1102,1,Other,MEDIUM FOR ENHYDROMYXA SALSUGINOSA,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1102.pdf
+1106,1,Other,SPOROSALIBACTERIUM MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1106.pdf
+1108,1,Other,CYS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1108.pdf
+1108a,1,Other,CYS MEDIUM WITH MODIFIED NACL CONCENTRATION,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1108a.pdf
+1109,1,Other,BTT MEDIUM,DSMZ,5.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1109.pdf
+1110,1,Other,NAUTILIA PROFUNDICOLA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1110.pdf
+1111,1,Other,CARBOXYMETHYL CELLULOSE MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1111.pdf
+1112,1,Other,CALDITERRIVIBRIO MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1112.pdf
+1114,1,Other,THIOFABA MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1114.pdf
+1116,1,Other,STEROIDOBACTER MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1116.pdf
+1119,1,Other,GNYS MEDIUM,DSMZ,4.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1119.pdf
+1120,1,Other,PYSE MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1120.pdf
+1121,1,Other,MMJS MEDIUM (modified),DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1121.pdf
+1123,1,Other,"YED MEDIUM, salted",DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1123.pdf
+1127,1,Other,TPT 18 MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1127.pdf
+1129,1,Other,PHOTOTROPHIC MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1129.pdf
+1131,1,Other,HYDROGENIVIRGA OKINAWENSIS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1131.pdf
+1133,1,Other,ENRICHED CYTOPHAGA AGAR MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1133.pdf
+1135,1,Other,"HD-MEDIUM, 1:10 diluted, modified",DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1135.pdf
+1137,1,Other,RUBRITALEA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1137.pdf
+113a,1,Other,SULFURIMONAS HONGKONGENSIS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium113a.pdf
+1142,1,Other,RHODOBLASTUS MEDIUM,DSMZ,5.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1142.pdf
+1143,1,Other,TY MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1143.pdf
+1146,1,Other,VENENIVIBRIO STAGNISPUMANTIS MEDIUM,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1146.pdf
+1147,1,Other,RV5 MEDIUM,DSMZ,9.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1147.pdf
+1148,1,Other,TINDALLIA MEDIUM,DSMZ,9.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1148.pdf
+1149,1,Other,OCEANITHERMUS MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1149.pdf
+1151,1,Other,SDO MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1151.pdf
+1152,1,Other,PM MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1152.pdf
+1156,1,Other,HALOPHILIC METHANOTROPHIC BACTERIUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1156.pdf
+1158,1,Other,HALOMONAS SYMIRNIENSIS MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1158.pdf
+115a,1,Other,REACTIVATION WITH LIQUID MEDIUM 115,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium115a.pdf
+1165,1,Other,SPIROCHAETA AMERICANA MEDIUM,DSMZ,9.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1165.pdf
+1166a,1,Other,DESULFURIBACILLUS MEDIUM (ARSENATE),DSMZ,9.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1166a.pdf
+1170,1,Other,METHYLONATRUM MEDIUM,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1170.pdf
+1171,1,Other,METHYLOHALOMONAS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1171.pdf
+1172,1,Other,YPG MEDIUM,DSMZ,5.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1172.pdf
+1175,1,Other,ALKALIFLEXUS MEDIUM,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1175.pdf
+1176,1,Other,HALOVIBRIO MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1176.pdf
+1177,1,Other,RUBITELEA MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1177.pdf
+1178,1,Other,AQUINCOLA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1178.pdf
+1181,1,Other,METHYLOCELLA SILVERSTRIS MEDIUM,DSMZ,5.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1181.pdf
+1182,1,Other,AQUISALIMONAS MEDIUM,DSMZ,9.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1182.pdf
+1183,1,Other,ROSEICYCLUS MEDIUM,DSMZ,8.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1183.pdf
+1185,1,Other,SMB MEDIUM,DSMZ,6.949999999999999,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1185.pdf
+1186,1,Other,GRANULIBACTER MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1186.pdf
+1188,1,Other,SPIROCHAETA CELLOBIOSIPHILA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1188.pdf
+1189,1,Other,AEROBIC SULFOLOBALES MEDIUM WITHOUT SULFUR,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1189.pdf
+1195,1,Other,KUSHNERIA AURANTIA MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1195.pdf
+1196,1,Other,ZAVARZINELLA FORMOSA MEDIUM,DSMZ,5.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1196.pdf
+1198,1,Other,Vero B4 Medium,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1198.pdf
+11a,1,Other,MODIFIED MEDIUM 11,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium11a.pdf
+1200,1,Other,ANAEROMYXOBACTER-MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1200.pdf
+1201,1,Other,ALICYCLOBACILLUS FERROOXYDANS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1201.pdf
+1202,1,Other,SOLIDESULFOVIBRIO MARRAKECHENSIS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1202.pdf
+1204,1,Other,SPHAEROCHAETA MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1204.pdf
+1206,1,Other,CALDANAEROVIRGA MEDIUM,DSMZ,8.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1206.pdf
+1207,1,Other,TGE,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1207.pdf
+1208,1,Other,BACILLUS ALKALIDIAZOTROPHICUS MEDIUM,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1208.pdf
+1209,1,Other,ALICYCOBACILLUS POHLIAE MEDIUM,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1209.pdf
+120a,1,Other,METHANOSARCINA BARKERI MEDIUM,DSMZ,6.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium120a.pdf
+121,1,Other,MEDIUM FOR SULFOSPIRILLUM DSM 806,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium121.pdf
+1210c,1,Other,THERMOSULFURIPHILUS MEDIUM,DSMZ,6.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1210c.pdf
+1211,1,Other,CALDISERICUM MEDIUM,DSMZ,6.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1211.pdf
+1212,1,Other,MARINOSPIRILLUM CELERE,DSMZ,9.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1212.pdf
+1215,1,Other,BEIJERINCKIA DOEBEREINERAE MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1215.pdf
+1216,1,Other,SALINISPHAERA HYDROTHERMALIS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1216.pdf
+1217,1,Other,ROSEOCOCCUS SUDUNTUYENSIS MEDIUM,DSMZ,8.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1217.pdf
+1218,1,Other,ROSEINATRONOBACTER MONICUS MEDIUM,DSMZ,9.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1218.pdf
+1219,1,Other,METHYLOVIRGULA LIGNI MEDIUM,DSMZ,5.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1219.pdf
+1221,1,Other,SALISAETA LONGA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1221.pdf
+1223,1,Other,TINDALLIA TEXCOCOENSIS MEDIUM,DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1223.pdf
+1224,1,Other,ECTOTHIORHODOSPIRA VARIABILIS MEDIUM,DSMZ,9.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1224.pdf
+1225,1,Other,THIOALKALIBACTER HALOPHILUS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1225.pdf
+1227,1,Other,RHODOBACA BARGUZINENSIS MEDIUM,DSMZ,9.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1227.pdf
+1228,1,Other,THIOALKALIVIBRIO THIOCYANODENITRIFICANS MEDIUM,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1228.pdf
+1229,1,Other,THIOHALOSPIRA ALKALIPHILA MEDIUM,DSMZ,8.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1229.pdf
+1230,1,Other,THIOALKALIMICROBIUM MICROAEOPHILUM MEDIUM,DSMZ,9.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1230.pdf
+1231,1,Other,HALOPLASMA CONTRACTILE MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1231.pdf
+1233,1,Other,CALDICOPROBACTER MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1233.pdf
+1237,1,Other,TEPIDIMICROBIUM MEDIUM,DSMZ,8.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1237.pdf
+1239,1,Other,DESULFURISPIRILLUM MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1239.pdf
+1243,1,Other,PARADESULFITOBACTERIUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1243.pdf
+1244,1,Other,SCHLESNERIA PALUDICOLA MEDIUM,DSMZ,5.55,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1244.pdf
+1245,1,Other,OTEB-MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1245.pdf
+1248,1,Other,KOSMOTOGA SHENGLIENSIS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1248.pdf
+1249,1,Other,GEOALKALIBACTER SUBTERRANEUS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1249.pdf
+1251,1,Other,CALDINITRATIRUPTOR MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1251.pdf
+1255,1,Other,THERMOVENABULUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1255.pdf
+1258,1,Other,NUTRIMENT AGAR WITH 150 G/L NACL,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1258.pdf
+1259,1,Other,NUTRIMENT AGAR,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1259.pdf
+1265,1,Other,BACTEROIDES GALACTURONICUS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1265.pdf
+1272,1,Other,THIOALKALIVIBRIO JANNASCHI,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1272.pdf
+1277b,1,Other,CALDIMICROBIUM THIODISMUTANS MEDIUM,DSMZ,7.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1277b.pdf
+1281,1,Other,ANAEROCELLA MEDIUM,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1281.pdf
+1282,1,Other,SH SEAWATER MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1282.pdf
+1288,1,Other,RHIZOMICROBIUM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1288.pdf
+1289,1,Other,ALCANIVORAX BALERICUS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1289.pdf
+1290,1,Other,ALKALIPHILUS MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1290.pdf
+1291,1,Other,CHTHONOMONAS MEDIUM,DSMZ,5.15,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1291.pdf
+1292,1,Other,CALDICOPROBACTER ALGERIENSIS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1292.pdf
+1294,1,Other,DESULFURISPIRILLUM INDICUM MEDIUM,DSMZ,6.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1294.pdf
+1297,1,Other,NATRONIELLA SULFIDIGENA MEDIUM,DSMZ,9.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1297.pdf
+1298,1,Other,SULFUROSPIRILLUM TAMANENSIS MEDIUM,DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1298.pdf
+1299,1,Other,THERMOSIPHO AFFECTUS MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1299.pdf
+130,1,Other,CZAPEK-DOX AGAR,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium130.pdf
+1301,1,Other,TEPIDANAEROBACTER ACETATOXYDANS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1301.pdf
+1303,1,Other,MARINE MEDIUM WITH PYRUVATE,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1303.pdf
+1306,1,Other,DEINOCOCCUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1306.pdf
+1307,1,Other,BACILLUS MUCILAGINOSUS MEDIUM,DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1307.pdf
+1308,1,Other,PY4S,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1308.pdf
+1309,1,Other,BACILLUS LOCISALIS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1309.pdf
+1310,1,Other,BUTYRIVIBRIO M2 MEDIUM,DSMZ,6.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1310.pdf
+1311,1,Other,XTC-2 MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1311.pdf
+1312,1,Other,FRESHWATER HD MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1312.pdf
+1313,1,Other,MARINE AMMONIUM MINERAL SALTS,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1313.pdf
+1314,1,Other,YEAST EXTRACT-STARCH AGAR (NBRC MED. 266),DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1314.pdf
+1315,1,Other,ANAEROBIC THAUERA MEDIUM,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1315.pdf
+1317,1,Other,MODIFIED NUTRIENT AGAR,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1317.pdf
+1322,1,Other,METHYLOFERULA STELLATA MEDIUM,DSMZ,5.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1322.pdf
+1323,1,Other,METHYLOCAPSA AUREA MEDIUM,DSMZ,5.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1323.pdf
+1324,1,Other,MODIFIED METHYLOBACTERIUM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1324.pdf
+1325,1,Other,PARACOCCUS BOGORIENSIS MEDIUM,DSMZ,9.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1325.pdf
+1327,1,Other,LARKINELLA ARBORICOLA MEDIUM,DSMZ,6.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1327.pdf
+1333,1,Other,FLB MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1333.pdf
+1334,1,Other,MODIFIED YMA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1334.pdf
+134,1,Other,HALISCOMENOBACTER MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium134.pdf
+1340,1,Other,SEHEL FOR HALANAEROBIUM,DSMZ,8.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1340.pdf
+1342,1,Other,YIM MEDIUM WITH NaCl,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1342.pdf
+1343,1,Other,TISTLIA CONSOTENSIS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1343.pdf
+1347,1,Other,M2-MEDIUM,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1347.pdf
+1348,1,Other,SYP - SW MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1348.pdf
+1349,1,Other,TG 408 MEDIUM,DSMZ,7.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1349.pdf
+1353,1,Other,YTBC - MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1353.pdf
+1355,1,Other,HYPHOMICROBIUM MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1355.pdf
+1357,1,Other,MAB MEDIUM,DSMZ,9.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1357.pdf
+1358,1,Other,THIORHODOCOCCUS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1358.pdf
+135a,1,Other,ACETOBACTERIUM MEDIUM (MARINE),DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium135a.pdf
+135c,1,Other,NEOMOORELLA THERMOACETICA MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium135c.pdf
+1361,1,Other,PLANCTOMYCETALES BACTERIUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1361.pdf
+1362,1,Other,TRYPTONE SOYA BROTH (TSB) WITH ADDITIONAL SALTS,DSMZ,7.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1362.pdf
+1363,1,Other,TUA ACETOBACTER MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1363.pdf
+1364,1,Other,NA SPHINGOBACTERIUM MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1364.pdf
+1367,1,Other,TELMATOCOLA MEDIUM,DSMZ,5.15,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1367.pdf
+1369,1,Other,ECTOTHIORHODOSPIRA MAGNA MEDIUM,DSMZ,9.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1369.pdf
+1370,1,Other,RICH ORGANIC MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1370.pdf
+1373,1,Other,IRD MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1373.pdf
+1374,1,Other,IGNAVIBACTERIA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1374.pdf
+1378,1,Other,MO-CFXI MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1378.pdf
+1382,1,Other,MP MEDIUM,DSMZ,5.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1382.pdf
+1384,1,Other,YTC MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1384.pdf
+1385,1,Other,NITROLANCETUS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1385.pdf
+1387,1,Other,23% MGM-MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1387.pdf
+1389,1,Other,LAMPROBACTER MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1389.pdf
+1391,1,Other,MMJHSY MEDIUM (modified),DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1391.pdf
+1395,1,Other,CHROMOHALOBACTER MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1395.pdf
+1397,1,Other,GS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1397.pdf
+1398,1,Other,1/10 PYGV MEDIUM modified,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1398.pdf
+14,1,Other,CLOSTRIDIUM FORMICACETICUM MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium14.pdf
+1400,1,Other,SALINIBACTER HALOPHILIC MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1400.pdf
+1401,1,Other,MSYS MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1401.pdf
+1403,1,Other,METHYLOROSULA MEDIUM V-022,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1403.pdf
+1404,1,Other,MEDIUM FOR STRAIN 2M70-1,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1404.pdf
+1406,1,Other,HALARSENATIBACTER MEDIUM,DSMZ,9.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1406.pdf
+1407,1,Other,PSYCHROBACTER MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1407.pdf
+1409,1,Other,METHYLOCYSTIS MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1409.pdf
+141,1,Other,METHANOGENIUM MEDIUM (H2/CO2),DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium141.pdf
+1410,1,Other,HALOBACTEROIDES MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1410.pdf
+1416,1,Other,"MST-MEDIUM, AUTOTROPHIC GROWTH",DSMZ,7.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1416.pdf
+1432,1,Other,ENHYDROBACTER MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1432.pdf
+1433,1,Other,ACIDO-THERMOPHILE MEDIUM,DSMZ,5.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1433.pdf
+1436,1,Other,PIRELLULA MEDIUM (M31PY),DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1436.pdf
+1441,1,Other,ALKALIPHILES PIRELLULA MEDIUM (M1),DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1441.pdf
+1446,1,Other,ALKALISPIRILLUM MOBILE MEDIUM,DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1446.pdf
+1449,1,Other,LENTIBACILLUS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1449.pdf
+144a,1,Other,CALDICELLULOSIRUPTOR ACETIGENUS MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium144a.pdf
+144b,1,Other,CALDICELLULOSIRUPTOR OWENSIS MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium144b.pdf
+1452,1,Other,AQUISALIMONAS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1452.pdf
+1453,1,Other,ALTERYTHROBACTER MEDIUM 216L,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1453.pdf
+1454,1,Other,Meiothermus hypogaeus MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1454.pdf
+1456,1,Other,DESULFOSOMA MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1456.pdf
+1457,1,Other,ALCALILIMNICOLA EHRLICHII MHLE-1 MEDIUM,DSMZ,9.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1457.pdf
+1458,1,Other,Glucose minerals salts medium,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1458.pdf
+1461,1,Other,SALINIVIBRIO SHARMENSIS MEDIUM,DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1461.pdf
+1463,1,Other,YE/10 + Ca MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1463.pdf
+1465,1,Other,CHITINISPIRILLUM MEDIUM,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1465.pdf
+1467,1,Other,T5 MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1467.pdf
+1469,1,Other,THERMOCHROMATIUM/ALLOCHROMATIUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1469.pdf
+147,1,Other,RUMINOBACTER AMYLOPHILUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium147.pdf
+1470,1,Other,MODIFIED CASTENHOLZ MEDIUM,DSMZ,8.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1470.pdf
+1473,1,Other,PLANTOMYCETACEAE MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1473.pdf
+1475,1,Other,METALLIBACTERIUM MEDIUM,DSMZ,5.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1475.pdf
+1476,1,Other,SALIMESOPHILOBACTER MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1476.pdf
+1477,1,Other,CALORAMATOR QUIMBAYENSIS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1477.pdf
+148,1,Other,TRICHLOROMONAS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium148.pdf
+1480,1,Other,MODIFIED TRYPTONE SOYA BROTH,DSMZ,10.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1480.pdf
+1482,1,Other,ARHODOMONAS MEDIUM RS91,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1482.pdf
+1485,1,Other,DESULFONATRONUM ALKALITOLERANS MEDIUM,DSMZ,8.85,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1485.pdf
+1487,1,Other,MAGNETOVIBRIO MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1487.pdf
+1488,1,Other,METHYLOCEANUS CENITEPIDUS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1488.pdf
+1489,1,Other,TSB-GLUCOSE MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1489.pdf
+149,1,Other,MEGADESULFOVIBRIO MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium149.pdf
+1490,1,Other,DESULFOVECTIS MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1490.pdf
+1493,1,Other,VERRUCOMICROBIA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1493.pdf
+1496,1,Other,PGY MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1496.pdf
+1501,1,Other,METHYLOCALDUM MARINUM MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1501.pdf
+1503,1,Other,CULTIVATION MEDIUM FOR CHLAMYDOPHILA PECORUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1503.pdf
+1505a,1,Other,PROTEINIVORAX HYDROGENIFORMANS MEDIUM,DSMZ,8.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1505a.pdf
+1508,1,Other,CALDERIHABITANS MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1508.pdf
+1509,1,Other,NB-PYRUVATE AGAR,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1509.pdf
+150a,1,Other,ACIDITHIOBACILLUS CALDUS MEDIUM,DSMZ,2.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium150a.pdf
+1512,1,Other,SCGYEM- MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1512.pdf
+1514,1,Other,Grace's Insect Medium,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1514.pdf
+1518,1,Other,TRYPTONE SOYA BROTH (TSB) WITH ADDITIONAL,DSMZ,7.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1518.pdf
+1520,1,Other,HALOPIGER MEDIUM (SG),DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1520.pdf
+1522,1,Other,ACETOBACTER LAMBICUS MEDIUM,DSMZ,3.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1522.pdf
+1524,1,Other,PLANCTOMYCETES MEDIUM NH11,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1524.pdf
+1525,1,Other,KALLOTENUE MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1525.pdf
+1526a,1,Other,KIRITIMATIELLA (L21 LS) MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1526a.pdf
+1526c,1,Other,DESULFOHALOVIBRIO (L21 LS) MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1526c.pdf
+1526d,1,Other,LIMISALSIVIBRIO (L21 LS) MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1526d.pdf
+1526e,1,Other,LIMIHALOGLOBUS MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1526e.pdf
+1527a,1,Other,SALINIVIRGA (L21 HS) MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1527a.pdf
+153,1,Other,THIOGLYCOLATE MEDIUM (MERCK 108190),DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium153.pdf
+1532,1,Other,ANTIBIOTIC MEDIUM 1,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1532.pdf
+1533,1,Other,MARINIFILUM MEDIUM (IRD MEDIUM),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1533.pdf
+1537,1,Other,SPIRIBACTER MEDIUM (830 + 12% Marine salts),DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1537.pdf
+1539,1,Other,PSEUDOTHERMOTOGA PROFUNDA MEDIUM,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1539.pdf
+1542,1,Other,CY/H LIQUID MEDIUM FOR MYXOBACTERIA,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1542.pdf
+1544,1,Other,. PIRELLULA MEDIUM (M30),DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1544.pdf
+1550,1,Other,EX-LM MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1550.pdf
+1552,1,Other,AIDINGIMONAS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1552.pdf
+1553,1,Other,MICROVIRGA FLOCULATUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1553.pdf
+1555,1,Other,Medium for tick cells (Rickettsia),DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1555.pdf
+1556,1,Other,BM7 MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1556.pdf
+1557,1,Other,PALUDISPHAERA BOREALIS MEDIUM (PX4),DSMZ,6.15,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1557.pdf
+156,1,Other,ANAEROTIGNUM MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium156.pdf
+1561,1,Other,Medium for broad range phototrophic bacteria,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1561.pdf
+1565,1,Other,ALKALIPHILUS TRANSVAALENSIS MEDIUM,DSMZ,9.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1565.pdf
+1567,1,Other,METHYLOPROFUNDUS SEDIMENTI MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1567.pdf
+1568,1,Other,MEDIUM FOR METHYLOCALDUM (RS11D-PR),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1568.pdf
+1569,1,Other,ORENIA CHITINITROPHA,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1569.pdf
+157,1,Other,WOLINELLA MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium157.pdf
+1571,1,Other,MICROBACTER MEDIUM,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1571.pdf
+1577,1,Other,SPOROHALOBACTER SALINUS MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1577.pdf
+1582,1,Other,MELISSOCOCCUS PLUTONIUS MEDIUM,DSMZ,6.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1582.pdf
+1584,1,Other,DESULFUROMONAS CARBONIS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1584.pdf
+1587,1,Other,MSV MEDIUM FOR TETRACOCCUS CECHII,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1587.pdf
+1588,1,Other,BRADYMONAS SEDIMINIS MEDIUM,DSMZ,7.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1588.pdf
+1589,1,Other,modified BAP+ (GFS) MEDIUM FOR FRANKIA,DSMZ,6.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1589.pdf
+1590,1,Other,modified BAP+ (PAGFS) MEDIUM FOR FRANKIA,DSMZ,6.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1590.pdf
+1594,1,Other,MEDIUM S FOR RHIZORHABDUS,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1594.pdf
+1595,1,Other,CM MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1595.pdf
+1599,1,Other,CONTUBERNALIS MEDIUM,DSMZ,9.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1599.pdf
+1600,1,Other,FRANCISELLA PERSICA MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1600.pdf
+1601,1,Other,MODIFIED M13 VERRUCOMICROBIUM MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1601.pdf
+1603,1,Other,ACETOBACTER MUSTI MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1603.pdf
+1604,1,Other,ATHALASSOTOGA MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1604.pdf
+1606,1,Other,RUBROBACTER CARBOXYDOVORANS MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1606.pdf
+1613,1,Other,FLOUR MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1613.pdf
+1614,1,Other,AMB MEDIUM FOR RACEMICYSTIS SPP.,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1614.pdf
+1616,1,Other,SEDIMENTIBACTER ACIDAMINIVORANS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1616.pdf
+1620,1,Other,POLYMORHOBACTER MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1620.pdf
+1621,1,Other,MARINIBACTRUM MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1621.pdf
+1623,1,Other,HALF-CONCENTRATED LB (Luria-Bertani) MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1623.pdf
+1624,1,Other,METHYLOPHAGA MURALIS MEDIUM,DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1624.pdf
+1625,1,Other,TAP WATER YEAST EXTRACT MEDIUM (TWYE),DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1625.pdf
+1626,1,Other,YEAST EXTRACT MANITOL MEDIUM (YEM),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1626.pdf
+1627,1,Other,ACIDIBACTER MEDIUM,DSMZ,5.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1627.pdf
+1631,1,Other,VERRUCOMICROBIUM MEDIUM (IG),DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1631.pdf
+1633,1,Other,V2 MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1633.pdf
+1636,1,Other,TEPIDIBACILLUS MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1636.pdf
+1639,1,Other,AZOARCUS TAIWANENSIS MEDIUM,DSMZ,8.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1639.pdf
+1647,1,Other,ACETOBACTEROIDES MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1647.pdf
+165,1,Other,ACETIVIBRIO CELLULOLYTICUS MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium165.pdf
+1654,1,Other,GILLIAMELLA MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1654.pdf
+166,1,Other,HYPHOMICROBIUM STRAIN X MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium166.pdf
+1661,1,Other,ALKALIPHILUS NAMSARAEVII MEDIUM,DSMZ,9.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1661.pdf
+1662,1,Other,ALKALIPHILUS HYDROTHERMALIS MEDIUM,DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1662.pdf
+1663,1,Other,BSM medium,DSMZ,8.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1663.pdf
+1665,1,Other,DESULFAMPLUS MEDIUM,DSMZ,7.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1665.pdf
+1667,1,Other,HYPNOCYCLICUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1667.pdf
+167,1,Other,SPOROCYTOPHAGA MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium167.pdf
+1670,1,Other,BME/CTVM2 cell line medium (Occidentia massiliensis),DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1670.pdf
+1671,1,Other,ACIDICAPSA MEDIUM (GYS MEDIUM),DSMZ,4.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1671.pdf
+1673,1,Other,Cyanobacteria Medium ASN 3+,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1673.pdf
+1675,1,Other,DESULFOTHERMOBACTER MEDIUM,DSMZ,4.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1675.pdf
+1681,1,Other,Mineral salt medium with colloidal chitin,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1681.pdf
+1684,1,Other,Alicyclobacillus cellulosilyticus Medium,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1684.pdf
+169,1,Other,TERETINEMA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium169.pdf
+1691,1,Other,Artificial sea water - Tryptone soy broth Medium (ASW TSB Medium),DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1691.pdf
+1693,1,Other,,,,
+1697,1,Other,THIOSOCIUS MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1697.pdf
+1699,1,Other,SULFURIMONAS CRATERIS MEDIUM,DSMZ,7.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1699.pdf
+169b,1,Other,LEADBETTERA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium169b.pdf
+1705,1,Other,AM5 MEDIUM (ELUSIMICROBIUM MEDIUM),DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1705.pdf
+1717,1,Other,PERLABENTIMONAS MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1717.pdf
+1721,1,Other,MMJHS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1721.pdf
+1727,1,Other,Z45/4 Medium for Cyanobacteria,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1727.pdf
+173,1,Other,OCEANISPIROCHAETA LITORALIS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium173.pdf
+1730,1,Other,FarD MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1730.pdf
+1731,1,Other,PONTIELLA MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1731.pdf
+1734,1,Other,THIOMICROSPIRA SP. MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1734.pdf
+174,1,Other,ZUELZERA MEDIUM,DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium174.pdf
+1743,1,Other,GHIORSEA MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1743.pdf
+1749,1,Other,Sucrose-Asparagine Medium,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1749.pdf
+1761,1,Other,PFENNIG'S MEDIUM III,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium1761.pdf
+183,1,Other,TRICHOCOCCUS MEDIUM,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium183.pdf
+194a,1,Other,DESULFOVIRGA MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium194a.pdf
+196,1,Other,DESULFOCAPSA SULFEXIGENS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium196.pdf
+206,1,Other,THERMODESULFOBACTERIUM MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium206.pdf
+207,1,Other,PROPIONISPIRA MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium207.pdf
+221,1,Other,AZOSPIRILLUM MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium221.pdf
+232b,1,Other,WEISSELA KOREENSIS MEDIUM,DSMZ,6.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium232b.pdf
+243,1,Other,SEAWATER YEAST PEPTONE AGAR,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium243.pdf
+246a,1,Other,REACTIVATION WITH LIQUID MEDIUM 246,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium246a.pdf
+25,1,Other,RHODOPSEUDOMONAS GLOBIFORMIS MEDIUM,DSMZ,4.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium25.pdf
+256,1,Other,THERMUS RUBER MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium256.pdf
+259,1,Other,YEAST EXTRACT MINERAL MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium259.pdf
+261,1,Other,MEDIUM FOR CHEMOLITHOTROPHIC GROWTH OF BACILLUS SCHLEGELII,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium261.pdf
+264,1,Other,TOMATO JUICE MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium264.pdf
+276,1,Other,HALOMONAS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium276.pdf
+281,1,Other,HYPHOMONAS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium281.pdf
+282b,1,Other,DESULFUROBACTERIUM HR11 MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium282b.pdf
+284,1,Other,KOSMOTOGA MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium284.pdf
+286,1,Other,CLOSTRIDIUM AMINOBUTYRICUM MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium286.pdf
+289,1,Other,RUMINICLOSTRIDIUM PAPYROSOLVENS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium289.pdf
+28a,1,Other,THIORHODOCOCCUS MEDIUM,DSMZ,7.199999999999999,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium28a.pdf
+28b,1,Other,THIORHODOCOCCUS MEDIUM II,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium28b.pdf
+292,1,Other,ACIDAMINOBACTER MEDIUM,DSMZ,7.45,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium292.pdf
+294,1,Other,SYNTROPHUS HQGö1 MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium294.pdf
+295,1,Other,OPITUTUS MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium295.pdf
+301,1,Other,FALCIVIBRIO MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium301.pdf
+308,1,Other,VIBRIO MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium308.pdf
+311a,1,Other,SPOROMUSA MEDIUM (H2/CO2),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium311a.pdf
+311b,1,Other,SPOROMUSA MEDIUM (MARINE),DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium311b.pdf
+314,1,Other,ILYOBACTER POLYTROPUS MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium314.pdf
+315,1,Other,BACTEROIDES CELLULOSOLVENS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium315.pdf
+318b,1,Other,ANAEROTIGNUM NEOPROPIONICUM MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium318b.pdf
+325,1,Other,SYNTROPHOSPORA MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium325.pdf
+328,1,Other,PYG MEDIUM WITH VOLATILE FATTY ACIDS,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium328.pdf
+335,1,Other,EUBACTERIUM OXIDOREDUCENS MEDIUM,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium335.pdf
+336,1,Other,OXOBACTER PFENNIGII MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium336.pdf
+337,1,Other,SYNTROPHOCOCCUS SUCROMUTANS MEDIUM,DSMZ,6.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium337.pdf
+338,1,Other,CAMPYLOBACTER RECTUS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium338.pdf
+343,1,Other,THERMOTOGA NEAPOLITANA MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium343.pdf
+343a,1,Other,THERMOSIPHO MELANESIENSIS MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium343a.pdf
+344,1,Other,FLEXIBACTER MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium344.pdf
+346,1,Other,DESULFALLAS MEDIUM,DSMZ,7.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium346.pdf
+347,1,Other,SYNTROPHOMONAS SAPOVORANS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium347.pdf
+347a,1,Other,SYNTROPHOMONAS ZEHNDERI MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium347a.pdf
+350,1,Other,CELLULOMONAS FERMENTANS MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium350.pdf
+351,1,Other,RHODOBACTER ADRIATICUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium351.pdf
+36,1,Other,THIOBACILLUS MEDIUM,DSMZ,6.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium36.pdf
+369,1,Other,BACILLUS TUSCIAE MEDIUM,DSMZ,4.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium369.pdf
+37,1,Other,SPIRILLUM MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium37.pdf
+371,1,Other,NATRONOBACTERIA MEDIUM,DSMZ,9.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium371.pdf
+377,1,Other,PYROCOCCUS MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium377.pdf
+38,1,Other,ACETOANAEROBIUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium38.pdf
+381a,1,Other,MODIFIED LB,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium381a.pdf
+382,1,Other,MINERAL MEDIUM M9 for E. coli JM strains,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium382.pdf
+383a,1,Other,DESULFOTIGNUM MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium383a.pdf
+385,1,Other,DESULFOCASTAENA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium385.pdf
+388,1,Other,DICTYOGLOMUS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium388.pdf
+389,1,Other,ANNWOODIA MEDIUM,DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium389.pdf
+395a,1,Other,BROCKIA MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium395a.pdf
+397,1,Other,FERULATE MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium397.pdf
+410,1,Other,BRACKISH WATER DESULFOVIBRIO (POSTGATE) MEDIUM,DSMZ,7.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium410.pdf
+414,1,Other,ACIDAMINOCOCCUS FERMENTANS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium414.pdf
+419,1,Other,OXALOBACTER MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium419.pdf
+422,1,Other,AMOEBOBACTER MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium422.pdf
+423,1,Other,XENORHABDUS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium423.pdf
+429d,1,Other,FRANCISELLA HALIOTICIDA MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium429d.pdf
+431,1,Other,ECTOTHIORHODOSPIRA VACUOLATA MEDIUM,DSMZ,8.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium431.pdf
+435,1,Other,KDM-2 MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium435.pdf
+454,1,Other,EBA MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium454.pdf
+459,1,Other,SUCROSE-PEPTONE-MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium459.pdf
+461a,1,Other,MINERAL MEDIUM WITH QUINOLINE,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium461a.pdf
+462a,1,Other,PLATES WITH FLUORANTHENE,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium462a.pdf
+463a,1,Other,EDTA-MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium463a.pdf
+465a,1,Other,MINERAL MEDIUM WITH 2-HYDROXYBIPHENYL,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium465a.pdf
+465c,1,Other,MINERAL MEDIUM WITH DICHLOROMETHANE,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium465c.pdf
+465h,1,Other,MINERALMEDIUM WITH 6-METHYLNICOTINATE,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium465h.pdf
+468,1,Other,EXIGUOBACTERIUM MEDIUM,DSMZ,8.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium468.pdf
+470,1,Other,PSEUDOMONAS HALOPHILA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium470.pdf
+473,1,Other,MEDIUM WITH EDTA AS CARBON SOURCE,DSMZ,7.55,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium473.pdf
+474,1,Other,MEDIUM WITH POLYHYDROXYBUTYRIC ACID AS CARBON SOURCE,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium474.pdf
+48,1,Other,TRYPTONE THIOGLYCOLATE MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium48.pdf
+481,1,Other,COPROTHERMOBACTER PROTEOLYTICUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium481.pdf
+482,1,Other,ANAEROBACTER MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium482.pdf
+483,1,Other,DEFLUVIITALEA MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium483.pdf
+484,1,Other,THIOMICROSPIRA THYASIRAE MEDIUM,DSMZ,7.449999999999999,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium484.pdf
+487,1,Other,PEPTOCLOSTRIDIUM MEDIUM (BETAINE),DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium487.pdf
+489,1,Other,LACRIMISPORA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium489.pdf
+492,1,Other,CLOSTRIDIUM METHYLPENTOSUM MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium492.pdf
+493,1,Other,THIOMONAS (HÖ5) MEDIUM,DSMZ,3.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium493.pdf
+499,1,Other,DESULFOHALOBIUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium499.pdf
+503c,1,Other,AMMONIFEX THIOPHILUS MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium503c.pdf
+503d,1,Other,SELENIIVIBRIO MEDIUM (ARSENATE),DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium503d.pdf
+503e,1,Other,THERMODESULFITIMONAS MEDIUM,DSMZ,6.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium503e.pdf
+503f,1,Other,AMINITHIOPHILUS MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium503f.pdf
+507a,1,Other,CARBOXYDOTHERMUS SIDEROPHILUS MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium507a.pdf
+507b,1,Other,CARBOXYDOCELLA MANGANICA MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium507b.pdf
+509,1,Other,SPIROCHAETA THERMOPHILA MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium509.pdf
+509a,1,Other,SPIROCHAETA RI 19.B1 MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium509a.pdf
+518,1,Other,GUYPARKERIA MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium518.pdf
+521,1,Other,DESULFOMONILE MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium521.pdf
+523,1,Other,CLOSTRIDIUM CHARTATABIDUM MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium523.pdf
+526,1,Other,CLOSTRIDIUM VIRIDE MEDIUM,DSMZ,7.699999999999999,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium526.pdf
+529,1,Other,AMPHIBACILLUS MEDIUM,DSMZ,9.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium529.pdf
+533,1,Other,THERMOPHILIC HYDROGEN BACTERIA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium533.pdf
+535c,1,Other,TRYPTICASE SOY BROTH AGAR,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium535c.pdf
+538,1,Other,HERBASPIRILLUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium538.pdf
+539,1,Other,RUMINICLOSTRIDIUM CELLOBIOPARUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium539.pdf
+541,1,Other,SULFUROSPIRILLUM MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium541.pdf
+547,1,Other,ISP MEDIUM 4,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium547.pdf
+54a,1,Other,REACTIVATION WITH LIQUID MEDIUM 545,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium54a.pdf
+557,1,Other,TISSIERELLA SP. MEDIUM (CREATININE),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium557.pdf
+558,1,Other,CLOSTRIDIUM (RB-1) MEDIUM,DSMZ,3.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium558.pdf
+559,1,Other,TMBS4 MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium559.pdf
+561,1,Other,SULFURIFERULA MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium561.pdf
+572,1,Other,GYE - MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium572.pdf
+574,1,Other,GUYPARKERIA HYDROTHERMALIS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium574.pdf
+581,1,Other,GLYCEROL CORNSTEEP AGAR,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium581.pdf
+582,1,Other,15% MH MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium582.pdf
+586,1,Other,THAUERA AROMATICA MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium586.pdf
+590,1,Other,DICHOTOMICROBIUM THERMOHALOPHILUM MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium590.pdf
+596,1,Other,BLASTOCOCCUS AGGREGATUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium596.pdf
+597,1,Other,SALINIVIBRIO COSTICOLA SUBSP. VALLISMORTIS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium597.pdf
+6,1,Other,ALLANTOIN MINERAL MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium6.pdf
+60,1,Other,NEOMOORELLA MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium60.pdf
+607a,1,Other,FILOBACILLUS MILOSENSIS MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium607a.pdf
+61,1,Other,THERMOANAEROBACTER MEDIUM,DSMZ,7.15,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium61.pdf
+610,1,Other,BACILLUS THERMOALCALOPHILUS MEDIUM,DSMZ,8.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium610.pdf
+612,1,Other,DESULFOSARCINA CETONICA MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium612.pdf
+614,1,Other,ACETOBACTERIUM FIMETARIUM MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium614.pdf
+617a,1,Other,BLOOD AGAR BASE (OXOID CM55),DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium617a.pdf
+618,1,Other,TWEEN 80A MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium618.pdf
+619,1,Other,HYPHOMICROBIUM METHYLOVORUM MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium619.pdf
+625,1,Other,HP 101 HALOPHILE MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium625.pdf
+626,1,Other,5% SORBITOL MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium626.pdf
+629,1,Other,STALEY'S MAINTENANCE MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium629.pdf
+631,1,Other,ACETOBACTER EUROPAEUS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium631.pdf
+635,1,Other,GRACILINEMA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium635.pdf
+63b,1,Other,DESULFOVIBRIO MEDIUM (SEAWATER),DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium63b.pdf
+63c,1,Other,DESULFOVIBRIO MEDIUM (CHOLINE),DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium63c.pdf
+640a,1,Other,THERMOCLOSTRIDIUM CAENICOLA MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium640a.pdf
+643,1,Other,SEDIMENTIBACTER MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium643.pdf
+644,1,Other,ALLOCATENOCOCCUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium644.pdf
+645a,1,Other,HEMIN MEDIUM FOR MYCOBACTERIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium645a.pdf
+647,1,Other,DESULFUROMONAS THIOPHILA MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium647.pdf
+648,1,Other,CLOSTRIDIUM GRANTII MEDIUM,DSMZ,6.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium648.pdf
+650,1,Other,CENTENUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium650.pdf
+651,1,Other,R 8 A H MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium651.pdf
+653,1,Other,PEPTONE-SUCCINATE AGAR,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium653.pdf
+654,1,Other,SPIRILLUM GRACILE MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium654.pdf
+655,1,Other,PYE MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium655.pdf
+658,1,Other,HICKEY-TRESNER-AGAR,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium658.pdf
+664a,1,Other,PSEUDOTHERMOTOGA LETTINGAE MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium664a.pdf
+667,1,Other,DESULFALLAS THERMOSAPOVORANS MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium667.pdf
+668,1,Other,FLEXIBACTER MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium668.pdf
+669,1,Other,CYTOPHAGA MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium669.pdf
+672,1,Other,HALF STRENGTH NUTRIENT BROTH OR AGAR,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium672.pdf
+675,1,Other,BACILLUS THERMANTARCTICUS MEDIUM,DSMZ,5.699999999999999,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium675.pdf
+677,1,Other,CLOSTRIDIUM (P-2) MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium677.pdf
+678,1,Other,COPROTHERMOBACTER (CP) MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium678.pdf
+680,1,Other,TRYPTONE YEAST EXTRACT AGAR (TYG),DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium680.pdf
+683,1,Other,TISSIERELLA (AMO.1) MEDIUM,DSMZ,8.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium683.pdf
+688,1,Other,PSEUDOTHERMOTOGA SUBTERRANEA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium688.pdf
+69,1,Other,STARKEYA NOVELLA MEDIUM,DSMZ,8.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium69.pdf
+695,1,Other,MEDIUM FOR ERYTHROBACTER LONGUS,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium695.pdf
+698,1,Other,DOEPEL MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium698.pdf
+70,1,Other,ACIDITHIOBACILLUS FERROOXIDANS MEDIUM,DSMZ,1.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium70.pdf
+701,1,Other,HALOANAEROBACTER CHITINOVORANS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium701.pdf
+702,1,Other,HALOCELLA CELLULOLYTICA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium702.pdf
+705,1,Other,BACILLUS INFERNUS MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium705.pdf
+708,1,Other,DESULFORHABDUS AMNIGENA MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium708.pdf
+709,1,Other,ACIDIMICROBIUM MEDIUM,DSMZ,2.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium709.pdf
+711,1,Other,SPOROBACTER MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium711.pdf
+711a,1,Other,EUBACTERIUM AGGREGANS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium711a.pdf
+712,1,Other,PSEUDOBUTYRIVIBRIO MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium712.pdf
+715,1,Other,COLUMBIA AGAR,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium715.pdf
+717,1,Other,DESULFITOBACTERIUM (PCE) MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium717.pdf
+718a,1,Other,PETROTOGA HALOPHILA MEDIUM,DSMZ,6.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium718a.pdf
+722,1,Other,OCEANIDESULFOVIBRIO MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium722.pdf
+726,1,Other,RHIZOMONAS SUBERIFACIENS MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium726.pdf
+731,1,Other,THERMOSYNTROPHA MEDIUM,DSMZ,8.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium731.pdf
+733,1,Other,SULFITOBACTER PONTIACUS MEDIUM,DSMZ,7.65,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium733.pdf
+742,1,Other,DESULFONATRONOVIBRIO MEDIUM,DSMZ,9.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium742.pdf
+743,1,Other,HYDROGENOBACTER ACIDOPHILUS MEDIUM,DSMZ,3.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium743.pdf
+747,1,Other,DSIC MEDIUM (modified),DSMZ,7.05,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium747.pdf
+75,1,Other,TRYPTICASE PHYTONE MEDIUM,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium75.pdf
+751,1,Other,SC MEDIUM,DSMZ,6.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium751.pdf
+752,1,Other,HALOMONAS PANTELLERIENSE,DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium752.pdf
+753,1,Other,MY MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium753.pdf
+754,1,Other,INORGANIC SALTS-MALTOSE MEDIUM,DSMZ,7.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium754.pdf
+756a,1,Other,MIXOTROPHIC NITROBACTER MEDIUM,DSMZ,7.4,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium756a.pdf
+768,1,Other,M17 MEDIUM FOR FILOMICROBIUM FUSIFORME,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium768.pdf
+769,1,Other,CLOSTRIDIUM VINCENTII MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium769.pdf
+772,1,Other,PARACOCCUS ALCALIPHILUS MEDIUM,DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium772.pdf
+773,1,Other,PARACOCCUS KOCURII MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium773.pdf
+778a,1,Other,THERMOLITHOBACTER MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium778a.pdf
+778b,1,Other,CALDIMICROBIUM MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium778b.pdf
+780,1,Other,MIDDLEBROOK MEDIUM WITH MYCOBACTIN,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium780.pdf
+783,1,Other,HYDROGENOTHERMUS HIRSCHII MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium783.pdf
+786,1,Other,DETHIOSULFOVIBRIO PEPTIDOVORANS MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium786.pdf
+788,1,Other,CALORAMATOR MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium788.pdf
+789,1,Other,DILUTE POTATO MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium789.pdf
+78c,1,Other,CHOPPED MEAT MEDIUM FOR FRETIBACTERIUM SP.,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium78c.pdf
+792b,1,Other,CAMINIBACTER MEDIATLANTICUS MEDIUM,DSMZ,5.7,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium792b.pdf
+794,1,Other,PSEUDOTHERMOTOGA HYPOGEA MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium794.pdf
+795a,1,Other,LEBETIMONAS MEDIUM,DSMZ,5.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium795a.pdf
+798,1,Other,TINDALLIA MEDIUM,DSMZ,9.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium798.pdf
+80,1,Other,GLYCEROL-SOIL MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium80.pdf
+800,1,Other,ANAEROBIOSPIRILLUM THOMASII MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium800.pdf
+802,1,Other,GRACILIBACILLUS MEDIUM,DSMZ,7.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium802.pdf
+803,1,Other,SPHAEROTILUS-LEPTOTHRIX MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium803.pdf
+805,1,Other,METHYLOBACTERIUM THIOCYANATUM MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium805.pdf
+807,1,Other,HALOANAEROBIUM ALCALIPHILUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium807.pdf
+809,1,Other,ALCANIVORAX BORKUMENSIS MEDIUM,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium809.pdf
+812,1,Other,SULFOBACILLUS DISULFIDOOXIDANS MEDIUM,DSMZ,2.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium812.pdf
+813a,1,Other,DESULFONATRONUM THIODISMUTANS MEDIUM,DSMZ,9.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium813a.pdf
+815,1,Other,DESULFOHALOTOMACULUM MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium815.pdf
+815a,1,Other,DESULFOCELLA HALOPHILA MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium815a.pdf
+816,1,Other,SPOROTOMACULUM MEDIUM,DSMZ,7.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium816.pdf
+819,1,Other,SEDIMINISPIROCHAETA SMARAGDINAE MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium819.pdf
+824,1,Other,TISSIERELLA CREATINOPHILA MEDIUM,DSMZ,7.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium824.pdf
+827,1,Other,THERMOANAEROBACTER SULFUROPHILUS MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium827.pdf
+829a,1,Other,DESULFUROBACTERIUM ATLANTICUM MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium829a.pdf
+829b,1,Other,THERMODESULFOBACTERIUM HYDROGENIPHILUM MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium829b.pdf
+829d,1,Other,DESULFUROBACTERIUM INDICUM MEDIUM,DSMZ,6.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium829d.pdf
+830b,1,Other,MEDIUM R2A FOR DENITRIFYING BACTERIA,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium830b.pdf
+834,1,Other,COPROTHERMOBACTER PLATENSIS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium834.pdf
+835,1,Other,DESULFUROMONAS CHLOROETHENICA MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium835.pdf
+837,1,Other,DESULFUROMONAS PALMITATIS MEDIUM,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium837.pdf
+843,1,Other,HELMUTKOENIGIA MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium843.pdf
+844,1,Other,BACTERIOVORAX MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium844.pdf
+845,1,Other,SPIRILLUM WINOGRADSKYI MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium845.pdf
+846a,1,Other,AMINOBACTERIUM MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium846a.pdf
+847,1,Other,MACROMONAS MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium847.pdf
+850,1,Other,ALTERNATIVE ACETOBACTER INTERMEDIUS MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium850.pdf
+853,1,Other,FUSIBACTER MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium853.pdf
+853a,1,Other,FUSIBACTER TUNISIENSIS MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium853a.pdf
+853b,1,Other,FUSIBACTER BIZERTENSIS MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium853b.pdf
+856,1,Other,STARCH NITRATE MEDIUM,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium856.pdf
+858,1,Other,ANAEROBIC CHOLESTEROL MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium858.pdf
+859,1,Other,LACTOBACILLUS MEDIUM IV,DSMZ,6.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium859.pdf
+861a,1,Other,DESULFOTALEA PSYCHROPHILA MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium861a.pdf
+864,1,Other,HALOTHIOBACILLUS MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium864.pdf
+866,1,Other,DESULFOFALX MEDIUM,DSMZ,8.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium866.pdf
+870,1,Other,SYNTROPHOTHERMUS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium870.pdf
+872,1,Other,PAPILLIBACTER MEDIUM,DSMZ,7.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium872.pdf
+873,1,Other,THERMOANAEROVIBRIO MEDIUM,DSMZ,7.15,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium873.pdf
+875,1,Other,DESULFACINUM HYDROTHERMALE MEDIUM,DSMZ,7.15,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium875.pdf
+876,1,Other,DESULFOTHERMUS NAPHTHAE MEDIUM,DSMZ,6.800000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium876.pdf
+88,1,Other,SULFOLOBUS MEDIUM,DSMZ,2.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium88.pdf
+880,1,Other,THERMOACETOGENIUM MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium880.pdf
+881,1,Other,DENITROVIBRIO MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium881.pdf
+884,1,Other,TWEEN 80-AGAR,DSMZ,,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium884.pdf
+890,1,Other,VM1 MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium890.pdf
+893,1,Other,TS AGAR,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium893.pdf
+898b,1,Other,SERPENTINICELLA MEDIUM,DSMZ,9.6,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium898b.pdf
+901a,1,Other,THERMODESULFOBIUM ACIDIPHILUM MEDIUM,DSMZ,4.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium901a.pdf
+902,1,Other,CARCBOXYDIBRACHIUM MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium902.pdf
+908,1,Other,MEDIUM FOR CHLORATE RESPIRERS,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium908.pdf
+916,1,Other,DESULFOFABA HANSENII MEDIUM,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium916.pdf
+930,1,Other,NATRONINCOLA HISTIDINOVORANS MEDIUM,DSMZ,8.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium930.pdf
+931,1,Other,ALCALIPHILIC AMPHIBACILLUS STRAINS MEDIUM,DSMZ,9.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium931.pdf
+933,1,Other,HALOANAEROBIUM CONGOLENSE MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium933.pdf
+936,1,Other,SALINIBACTER RUBER MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium936.pdf
+937a,1,Other,MODIFIED PYES MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium937a.pdf
+938,1,Other,ST21 AGAR FOR CELLULOSE DEGRADERS,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium938.pdf
+939,1,Other,METHYLOTROPHIC ARTHROBACTER AND HYPHOMICROBIUM MEDIUM,DSMZ,7.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium939.pdf
+943,1,Other,SEDIMENTIBACTER SAALENSIS MEDIUM,DSMZ,7.3,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium943.pdf
+946,1,Other,NAUTILIA MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium946.pdf
+947,1,Other,CALORAMATOR VITERBIENSIS MEDIUM,DSMZ,6.35,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium947.pdf
+953,1,Other,1/100 NUTRIENT AGAR NO.2,DSMZ,7.1,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium953.pdf
+957,1,Other,MICROVIRGULA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium957.pdf
+959a,1,Other,MARINITOGA LITORALIS MEDIUM,DSMZ,6.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium959a.pdf
+961,1,Other,THERMOVIBRIO MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium961.pdf
+962,1,Other,THERMINCOLA FERRIACETICA MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium962.pdf
+963,1,Other,THERMANAEROMONAS MEDIUM,DSMZ,6.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium963.pdf
+971,1,Other,HALOMONAS MAGADIENSIS MEDIUM,DSMZ,10.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium971.pdf
+973,1,Other,MARINITHERMUS HYDROTHERMALIS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium973.pdf
+974,1,Other,1/2 YTSS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium974.pdf
+975,1,Other,OCEANITHERMUS PROFUNDUS MEDIUM,DSMZ,7.25,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium975.pdf
+976,1,Other,METHYLOPHAGA ALCALICA MEDIUM,DSMZ,9.5,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium976.pdf
+977,1,Other,VULCANITHERMUS MEDIUM,DSMZ,6.8,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium977.pdf
+978,1,Other,THERMOACTINOMYCES MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium978.pdf
+979,1,Other,PETROBACTER SUCCINIMANDENS MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium979.pdf
+981,1,Other,GEOTHERMOBACTER MEDIUM,DSMZ,6.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium981.pdf
+985,1,Other,DEFERRIBACTER AUTOTROPHICUS MEDIUM,DSMZ,6.75,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium985.pdf
+993a,1,Other,NESTERENKONIA MODIFIED MEDIUM,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium993a.pdf
+993c,1,Other,MODIFIED ISP5 MEDIUM WITH SODIUM CHLORIDE,DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium993c.pdf
+995,1,Other,NPB MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium995.pdf
+997,1,Other,HNW MEDIUM,DSMZ,7.0,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium997.pdf
+998,1,Other,MEDIUM FOR ROSEOSPIRA,DSMZ,6.9,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium998.pdf
+999,1,Other,HALORHODOSPIRA MEDIUM,DSMZ,7.300000000000001,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium999.pdf
+9a,1,Other,"VY/2, REDUCED MEDIUM",DSMZ,7.2,https://www.dsmz.de/microorganisms/medium/pdf/DSMZ_Medium9a.pdf

@@ -1,0 +1,148 @@
+{
+  "built": "2026-11-24",
+  "sources": {
+    "bacdive": {
+      "url": "https://api.bacdive.dsmz.de/v2/fetch/",
+      "releases": {
+        "20260601.11": 89765,
+        "20251217.10": 12422
+      }
+    },
+    "mediadive": {
+      "url": "https://mediadive.dsmz.de/rest/",
+      "media": 3344
+    },
+    "ncbi": {
+      "db": "nuccore",
+      "accessions_cached": 25843
+    }
+  },
+  "parameters": {
+    "max_id": "200000",
+    "workers": "2",
+    "min_len": "500",
+    "max_len": "1600",
+    "max_ambiguous": "0.01",
+    "n_media": "42",
+    "ph_fallback": "True",
+    "sample_rows": "5000",
+    "sample_bytes": "1000000",
+    "seed": "0"
+  },
+  "attrition": {
+    "bacdive_records": 102187,
+    "bacteria": 99746,
+    "with_16s_accession": 26970,
+    "accession_in_length_range": 25846,
+    "sequence_retrieved": 25844,
+    "passes_sequence_qc": 25402,
+    "with_any_label": 20957,
+    "after_exact_dedup": 20059
+  },
+  "rows": 20059,
+  "genera": 3066,
+  "species": 15272,
+  "splits": {
+    "test": {
+      "rows": 3009,
+      "genera": 461
+    },
+    "train": {
+      "rows": 14041,
+      "genera": 2146
+    },
+    "val": {
+      "rows": 3009,
+      "genera": 459
+    }
+  },
+  "labels": {
+    "media": {
+      "nan": 5873,
+      "Other": 3247,
+      "514": 1533,
+      "65": 1466,
+      "830": 1096,
+      "92": 800,
+      "1": 793,
+      "693": 771,
+      "535": 659,
+      "220": 631,
+      "11": 304,
+      "104": 263,
+      "84": 179,
+      "553": 163,
+      "645": 161,
+      "58": 143,
+      "554": 142,
+      "215": 136,
+      "110": 122,
+      "9": 106,
+      "1a": 104,
+      "545": 100,
+      "78": 92,
+      "339": 87,
+      "104b": 83,
+      "53": 78,
+      "830c": 77,
+      "1076b": 75,
+      "381": 75,
+      "98": 65,
+      "429": 62,
+      "585": 58,
+      "252": 57,
+      "514c": 56,
+      "104c": 55,
+      "63": 49,
+      "641": 47,
+      "83": 47,
+      "1203a": 45,
+      "987": 43,
+      "514f": 40,
+      "514b": 38,
+      "535b": 38
+    },
+    "temperature": {
+      "mesophile": 18887,
+      "thermophile": 739,
+      "psychrophile": 374,
+      "nan": 59
+    },
+    "ph": {
+      "neutrophile": 13726,
+      "nan": 5329,
+      "alkaliphile": 637,
+      "acidophile": 367
+    },
+    "oxygen": {
+      "nan": 9400,
+      "aerobe": 5992,
+      "anaerobe": 2141,
+      "facultative": 1950,
+      "microaerophile": 576
+    }
+  },
+  "sample_rows": 5079,
+  "files": {
+    "dsni.parquet": {
+      "bytes": 3874281,
+      "sha256": "705e2abc4b305763647e309476ae185cf87d128fa3deeaaee1d027f3728a6450"
+    },
+    "dsni.fasta.gz": {
+      "bytes": 3177511,
+      "sha256": "c0724f843a016182aea6257180497ee582e3b5e04c2561f8122aba33c19ae4a0"
+    },
+    "media_map.csv": {
+      "bytes": 132502,
+      "sha256": "f3fb31e297dd1bc90207deaf4b9ae9c8a00f2b0b51154f6b5300772e0b275ad4"
+    },
+    "media_compositions.json": {
+      "bytes": 97302,
+      "sha256": "a9a229bd87991b0f7e4a08a850907c0224e9f64c5ab056650514c84eb9200387"
+    },
+    "dsni_sample.parquet": {
+      "bytes": 829001,
+      "sha256": "9295e2958f03ab91ed07d949b5e31ead23a841d2a999cdd92b3b22ec5ed4089a"
+    }
+  }
+}

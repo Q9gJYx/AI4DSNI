@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use DSNI, please cite the manuscript below and the upstream databases listed in docs/dependencies.md."
+title: "DSNI: Recommending Bacterial Cultivation Conditions from 16S rRNA"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Q9gJYx/AI4DSNI"
+abstract: >-
+  DSNI pairs one 16S rRNA gene sequence per bacterial strain with four cultivation
+  conditions (growth medium, temperature, pH, oxygen requirement) drawn from BacDive,
+  MediaDive and NCBI, with a genus-disjoint train/val/test split, a scripted rebuild, and
+  baseline models up to a Transformer with a biological variability gate.
+keywords:
+  - 16S rRNA
+  - bacterial cultivation
+  - dataset
+  - benchmark
+  - multi-task learning
+authors:
+  - family-names: Wang
+    given-names: Juntang
+    affiliation: Harvard University
+  - family-names: Wu
+    given-names: Hao
+    affiliation: "Peking University; Duke Kunshan University"
+  - family-names: Li
+    given-names: "Sheng'en"
+    affiliation: Duke Kunshan University
+  - family-names: Wang
+    given-names: Yihan
+    affiliation: Duke University
+  - family-names: Zou
+    given-names: Dongmian
+    affiliation: Duke Kunshan University
+  - family-names: Xu
+    given-names: Shixin
+    affiliation: Duke Kunshan University
+preferred-citation:
+  type: unpublished
+  title: "Recommending Bacterial Cultivation Conditions from 16S rRNA"
+  year: 2026
+  notes: "Manuscript under review"
+  authors:
+    - family-names: Wang
+      given-names: Juntang
+    - family-names: Wu
+      given-names: Hao
+    - family-names: Li
+      given-names: "Sheng'en"
+    - family-names: Wang
+      given-names: Yihan
+    - family-names: Zou
+      given-names: Dongmian
+    - family-names: Xu
+      given-names: Shixin

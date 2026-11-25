@@ -1,0 +1,21 @@
+{
+  "title": "DSNI: Recommending Bacterial Cultivation Conditions from 16S rRNA",
+  "description": "Code for DSNI, a dataset that pairs one 16S rRNA gene sequence per bacterial strain with four cultivation conditions (growth medium, temperature, pH, oxygen requirement) drawn from BacDive, MediaDive and NCBI, with a genus-disjoint train/val/test split, a scripted rebuild, and baseline models.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "creators": [
+    {"name": "Wang, Juntang", "affiliation": "Harvard University"},
+    {"name": "Wu, Hao", "affiliation": "Peking University; Duke Kunshan University"},
+    {"name": "Li, Sheng'en", "affiliation": "Duke Kunshan University"},
+    {"name": "Wang, Yihan", "affiliation": "Duke University"},
+    {"name": "Zou, Dongmian", "affiliation": "Duke Kunshan University"},
+    {"name": "Xu, Shixin", "affiliation": "Duke Kunshan University"}
+  ],
+  "keywords": ["16S rRNA", "bacterial cultivation", "dataset", "benchmark", "multi-task learning"],
+  "related_identifiers": [
+    {"identifier": "10.1093/nar/gkae959", "relation": "references", "scheme": "doi"},
+    {"identifier": "10.1093/nar/gkac803", "relation": "references", "scheme": "doi"}
+  ]
+}
