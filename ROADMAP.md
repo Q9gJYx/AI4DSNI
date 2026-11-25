@@ -4,10 +4,6 @@ What this repository does not do yet, in the order it matters for the manuscript
 
 ## Dataset
 
-- **DOI.** Tag a GitHub release with the Zenodo integration switched on; the archived snapshot
-  includes the tracked data. Then add the DOI badge and `CITATION.cff` `doi`, and point
-  `dsni.data.DSNI_URL` / `DSNI_SHA256` at the archived `dsni.parquet` for installs without the
-  repository.
 - **Species-level extension.** 20,059 strains have a 16S sequence of their own. About 24,500 more
   labelled strains have none; letting them borrow the sequence of another strain of their species would
   give about 45,500 strains. It must be an opt-in table flagged per row (`sequence_source`), because

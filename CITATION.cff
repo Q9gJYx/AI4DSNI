@@ -3,6 +3,8 @@ message: "If you use DSNI, please cite the manuscript below and the upstream dat
 title: "DSNI: Recommending Bacterial Cultivation Conditions from 16S rRNA"
 type: software
 version: 1.0.0
+date-released: "2026-11-25"
+doi: 10.5281/zenodo.24524177
 license: MIT
 repository-code: "https://github.com/Q9gJYx/AI4DSNI"
 abstract: >-

@@ -21,10 +21,10 @@ DATA_DIR = Path(__file__).resolve().parents[2] / "data"  # repo root for an edit
 FULL = DATA_DIR / "dsni.parquet"
 SAMPLE = DATA_DIR / "dsni_sample.parquet"
 
-# The full table ships in data/. These name an archived copy, for installs without the
-# repository (for example from a wheel); they are filled in once a release has a DOI.
-DSNI_URL: str | None = None
-DSNI_SHA256: str | None = None
+# The full table ships in data/. For installs without the repository, fetch() downloads the
+# copy tagged v1.0.0 (also inside the Zenodo archive of that release, doi:10.5281/zenodo.24524178).
+DSNI_URL: str | None = "https://github.com/Q9gJYx/AI4DSNI/raw/v1.0.0/data/dsni.parquet"
+DSNI_SHA256: str | None = "705e2abc4b305763647e309476ae185cf87d128fa3deeaaee1d027f3728a6450"
 
 _LUT = np.full(256, UNKNOWN, dtype=np.int64)
 for _base, _index in VOCAB.items():
@@ -35,8 +35,8 @@ def fetch(url: str | None = DSNI_URL, sha256: str | None = DSNI_SHA256, dest: Pa
     """Download the full table to ``dest`` and verify its checksum."""
     if url is None:
         raise RuntimeError(
-            "The full DSNI table has no archive URL yet. Build it with "
-            "`python scripts/build_dsni.py`, or use the tracked sample (`dsni.data.load()`)."
+            "No download URL given. Build the table with `python scripts/build_dsni.py`, or "
+            "use the copy shipped in data/ (`dsni.data.load()`)."
         )
     dest.parent.mkdir(parents=True, exist_ok=True)
     partial = dest.with_suffix(".part")

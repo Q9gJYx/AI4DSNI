@@ -4,6 +4,7 @@
 [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-1d4ed8.svg)](data/README.md)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 2.1+](https://img.shields.io/badge/PyTorch-2.1%2B-ee4c2c.svg)](https://pytorch.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24524177.svg)](https://doi.org/10.5281/zenodo.24524177)
 
 Code and data for *Recommending Bacterial Cultivation Conditions from 16S rRNA* by Juntang Wang, Hao Wu, Sheng'en Li, Yihan Wang, Dongmian Zou† and Shixin Xu†. † Corresponding authors. The manuscript is under review.
 
@@ -78,7 +79,7 @@ sample = data.load(data.SAMPLE)  # 5,079 strains, whole genera, for quick experi
 uv run --extra build python scripts/build_dsni.py   # rebuild from the public sources, about 15 minutes
 ```
 
-Both tables ship with the repository, so a clone or a Colab session has the full dataset without a download step; `data/manifest.json` lists their checksums. The data card is [`data/README.md`](data/README.md), the schema and label rules are in [`docs/dataset.md`](docs/dataset.md).
+Both tables ship with the repository, so a clone or a Colab session has the full dataset without a download step; `data/manifest.json` lists their checksums. Release v1.0.0 is archived on Zenodo ([10.5281/zenodo.24524178](https://doi.org/10.5281/zenodo.24524178)), and `dsni.data.fetch()` downloads its table for installs without the repository. The data card is [`data/README.md`](data/README.md), the schema and label rules are in [`docs/dataset.md`](docs/dataset.md).
 
 ## 🔁 Running the paper's protocol
 
@@ -144,7 +145,20 @@ The dataset is derived from [BacDive](https://bacdive.dsmz.de) and [MediaDive](h
 }
 ```
 
-`CITATION.cff` carries the same metadata for the "Cite this repository" button.
+To cite the dataset and code release itself:
+
+```bibtex
+@software{wang2026dsni_release,
+  title     = {DSNI: Recommending Bacterial Cultivation Conditions from 16S rRNA},
+  author    = {Wang, Juntang and Wu, Hao and Li, Sheng'en and Wang, Yihan and Zou, Dongmian and Xu, Shixin},
+  year      = {2026},
+  version   = {1.0.0},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.24524177}
+}
+```
+
+`CITATION.cff` carries the same metadata for the "Cite this repository" button. The DOI above always resolves to the latest release; v1.0.0 itself is [10.5281/zenodo.24524178](https://doi.org/10.5281/zenodo.24524178).
 
 ## 📝 License
 

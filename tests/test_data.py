@@ -80,7 +80,7 @@ def test_fetch_verifies_the_checksum(tmp_path):
     with pytest.raises(RuntimeError, match="checksum mismatch"):
         data.fetch(source.as_uri(), "0" * 64, tmp_path / "bad.parquet")
     assert not (tmp_path / "bad.parquet").exists()
-    with pytest.raises(RuntimeError, match="no archive URL"):
+    with pytest.raises(RuntimeError, match="No download URL"):
         data.fetch(None)
 
 
@@ -92,3 +92,5 @@ def test_shipped_tables_match_the_manifest():
         digest = hashlib.sha256((data.DATA_DIR / name).read_bytes()).hexdigest()
         assert digest == manifest["files"][name]["sha256"], name
     assert len(pd.read_parquet(data.FULL)) == manifest["rows"]
+    # fetch() downloads the released copy; a rebuilt table needs a new release and new constants
+    assert manifest["files"]["dsni.parquet"]["sha256"] == data.DSNI_SHA256
