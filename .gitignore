@@ -1,121 +1,48 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
 *.py[cod]
-*$py.class
-
-# C extensions
-*.so
-
-# Distribution / packaging
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
 *.egg-info/
-.installed.cfg
-*.egg
-
-# PyInstaller
-*.manifest
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
+build/
+dist/
+.venv/
 .pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
 
-# Translations
-*.mo
-*.pot
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# IPython
-profile_default/
-ipython_config.py
-
-# pyenv
-.python-version
-
-# Environments
+# Secrets and model weights
 .env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-._*
-
-# Private directory (data, outputs, etc.)
-private/
-
-# Data files (raw / intermediate). Released data/ is explicitly whitelisted.
-*.fa
-*.fna
-!configs/*.yaml
-!data/metadata.csv
-!data/sequences.fasta
-!data/media_compositions.json
-
-# Model outputs
-outputs/
-checkpoints/
-logs/
-wandb/
-mlruns/
-
-# Hydra outputs
-multirun/
-
-# Large files
-*.h5
-*.hdf5
 *.pt
 *.pth
-*.ckpt
 *.safetensors
 
-# Temporary files
-tmp/
-temp/
-*.tmp
-*.bak
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
 
-# Claude Code guidance (local file)
+# Data: the release is tracked (a few MB); the FASTA copy and the download cache are rebuilt by
+# scripts/build_dsni.py. List every tracked file explicitly.
+data/*
+!data/.gitkeep
+!data/README.md
+!data/dsni.parquet
+!data/dsni_sample.parquet
+!data/manifest.json
+!data/media_map.csv
+!data/media_compositions.json
+
+# Regenerable outputs
+out/*
+!out/.gitkeep
+lightning_logs/
+*.ckpt
+
+# The two small demo models are shipped so the demo's result is the same on every machine
+!checkpoints/
+!checkpoints/transformer_flat.ckpt
+!checkpoints/transformer_gated.ckpt
+
+# Agent scratch and local guidance
+.claude/
 CLAUDE.md

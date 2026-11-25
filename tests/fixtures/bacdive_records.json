@@ -1,0 +1,303 @@
+[
+ {
+  "General": {
+   "BacDive-ID": 100,
+   "DSM-Number": 14760,
+   "doi": "10.13145/bacdive100.20260601.11"
+  },
+  "Name and taxonomic classification": {
+   "domain": "Bacteria",
+   "phylum": "Firmicutes",
+   "class": "Negativicutes",
+   "order": "Selenomonadales",
+   "family": "Acidaminococcaceae",
+   "genus": "Phascolarctobacterium",
+   "species": "Phascolarctobacterium faecium",
+   "type strain": "yes",
+   "LPSN": {
+    "@ref": 20215,
+    "description": "domain/bacteria",
+    "keyword": "phylum/bacillota",
+    "domain": "Bacteria",
+    "phylum": "Bacillota",
+    "class": "Negativicutes",
+    "order": "Acidaminococcales",
+    "family": "Acidaminococcaceae",
+    "genus": "Phascolarctobacterium",
+    "species": "Phascolarctobacterium faecium",
+    "full scientific name": "<I>Phascolarctobacterium</I> <I>faecium</I> Del Dot et al. 1994"
+   }
+  },
+  "Culture and growth conditions": {
+   "culture medium": {
+    "@ref": 5523,
+    "name": "PY + X MEDIUM (N2/CO2) (DSMZ Medium 104c)",
+    "growth": "yes",
+    "link": "https://mediadive.dsmz.de/medium/104c"
+   },
+   "culture temp": {
+    "@ref": 5523,
+    "growth": "positive",
+    "type": "growth",
+    "temperature": "37"
+   }
+  },
+  "Physiology and metabolism": {
+   "oxygen tolerance": {
+    "@ref": 5523,
+    "oxygen tolerance": "anaerobe"
+   }
+  },
+  "Sequence information": {
+   "16S sequences": {
+    "@ref": 5523,
+    "description": "P.faecium (ACM3679) gene for 16S rRNA",
+    "accession": "X72865",
+    "length": 1511,
+    "database": "nuccore",
+    "NCBI tax ID": 33025
+   }
+  }
+ },
+ {
+  "General": {
+   "BacDive-ID": 654,
+   "DSM-Number": 1,
+   "doi": "10.13145/bacdive654.20260601.11"
+  },
+  "Name and taxonomic classification": {
+   "domain": "Bacteria",
+   "phylum": "Firmicutes",
+   "class": "Bacilli",
+   "order": "Caryophanales",
+   "family": "Bacillaceae",
+   "genus": "Heyndrickxia",
+   "species": "Heyndrickxia coagulans",
+   "type strain": "yes",
+   "LPSN": {
+    "@ref": 20215,
+    "description": "domain/bacteria",
+    "keyword": "phylum/bacillota",
+    "domain": "Bacteria",
+    "phylum": "Bacillota",
+    "class": "Bacilli",
+    "order": "Caryophanales",
+    "family": "Bacillaceae",
+    "genus": "Bacillus",
+    "species": "Bacillus coagulans",
+    "full scientific name": "<I>Bacillus</I> <I>coagulans</I> Hammer 1915 (Approved Lists 1980)"
+   }
+  },
+  "Culture and growth conditions": {
+   "culture medium": [
+    {
+     "@ref": 41798,
+     "name": "MEDIUM 3 - Columbia agar",
+     "growth": "yes"
+    },
+    {
+     "@ref": 2009,
+     "name": "NUTRIENT AGAR (DSMZ Medium 1)",
+     "growth": "yes",
+     "link": "https://mediadive.dsmz.de/medium/1"
+    },
+    {
+     "@ref": 2009,
+     "name": "STANDARD I MEDIUM (DSMZ Medium 453)",
+     "growth": "yes",
+     "link": "https://mediadive.dsmz.de/medium/453"
+    },
+    {
+     "@ref": 118318,
+     "name": "CIP Medium 72",
+     "growth": "yes",
+     "link": "https://catalogue-crbip.pasteur.fr/fiche_milieu.xhtml?crbip=72"
+    },
+    {
+     "@ref": 118318,
+     "name": "CIP Medium 3",
+     "growth": "yes",
+     "link": "https://catalogue-crbip.pasteur.fr/fiche_milieu.xhtml?crbip=3"
+    }
+   ],
+   "culture temp": [
+    {
+     "@ref": 22893,
+     "growth": "positive",
+     "type": "growth",
+     "temperature": "30-55"
+    },
+    {
+     "@ref": 22894,
+     "growth": "positive",
+     "type": "maximum",
+     "temperature": "60"
+    },
+    {
+     "@ref": 2009,
+     "growth": "positive",
+     "type": "growth",
+     "temperature": "40"
+    },
+    {
+     "@ref": 41798,
+     "growth": "positive",
+     "type": "growth",
+     "temperature": "37"
+    },
+    {
+     "@ref": 44986,
+     "growth": "positive",
+     "type": "growth",
+     "temperature": "37"
+    },
+    {
+     "@ref": 67770,
+     "growth": "positive",
+     "type": "growth",
+     "temperature": "37"
+    },
+    {
+     "@ref": 118318,
+     "growth": "positive",
+     "type": "growth",
+     "temperature": "22-55"
+    },
+    {
+     "@ref": 118318,
+     "growth": "negative",
+     "type": "growth",
+     "temperature": "10"
+    }
+   ],
+   "culture pH": {
+    "@ref": 118318,
+    "ability": "positive",
+    "type": "growth",
+    "pH": "6"
+   }
+  },
+  "Physiology and metabolism": {
+   "oxygen tolerance": [
+    {
+     "@ref": 44986,
+     "oxygen tolerance": "aerobe"
+    },
+    {
+     "@ref": 44986,
+     "oxygen tolerance": "anaerobe"
+    },
+    {
+     "@ref": 118318,
+     "oxygen tolerance": "facultative anaerobe"
+    }
+   ]
+  },
+  "Sequence information": {
+   "16S sequences": [
+    {
+     "@ref": 2009,
+     "description": "Bacillus coagulans strain ATCC 7050 16S ribosomal RNA gene, partial sequence",
+     "accession": "DQ297928",
+     "length": 1549,
+     "database": "nuccore",
+     "NCBI tax ID": 1121088
+    },
+    {
+     "@ref": 67770,
+     "description": "Bacillus coagulans gene for 16S rRNA, partial sequence",
+     "accession": "AB271752",
+     "length": 1479,
+     "database": "nuccore",
+     "NCBI tax ID": 1398
+    },
+    {
+     "@ref": 67770,
+     "description": "Bacillus coagulans gene for 16S rRNA, partial sequence, strain: IAM 12463",
+     "accession": "D16267",
+     "length": 1481,
+     "database": "nuccore",
+     "NCBI tax ID": 1398
+    },
+    {
+     "@ref": 67770,
+     "description": "B.coagulans 16S ribosomal RNA",
+     "accession": "X60614",
+     "length": 1429,
+     "database": "nuccore",
+     "NCBI tax ID": 1398
+    },
+    {
+     "@ref": 124043,
+     "description": "Bacillus coagulans gene for 16S rRNA, partial sequence.",
+     "accession": "AB006924",
+     "length": 277,
+     "database": "nuccore",
+     "NCBI tax ID": 1398
+    },
+    {
+     "@ref": 124043,
+     "description": "Bacillus coagulans strain JCM2257 DNA for 16S ribosomal RNA, partial sequence.",
+     "accession": "D78313",
+     "length": 1422,
+     "database": "nuccore",
+     "NCBI tax ID": 1398
+    },
+    {
+     "@ref": 124043,
+     "description": "Bacillus coagulans strain NBRC-12583 16S ribosomal RNA gene, partial sequence.",
+     "accession": "KX261624",
+     "length": 1285,
+     "database": "nuccore",
+     "NCBI tax ID": 1398
+    }
+   ]
+  }
+ },
+ {
+  "General": {
+   "BacDive-ID": 9001,
+   "DSM-Number": 51404,
+   "doi": "10.13145/bacdive9001.20260601.11"
+  },
+  "Name and taxonomic classification": {
+   "domain": "Bacteria",
+   "phylum": "Proteobacteria",
+   "class": "Deltaproteobacteria",
+   "order": "Myxococcales",
+   "family": "Myxococcaceae",
+   "genus": "Corallococcus",
+   "species": "Corallococcus coralloides",
+   "type strain": "no",
+   "LPSN": {
+    "@ref": 20215,
+    "description": "domain/bacteria",
+    "keyword": "phylum/pseudomonadota",
+    "domain": "Bacteria",
+    "phylum": "Pseudomonadota",
+    "class": "Deltaproteobacteria",
+    "order": "Myxococcales",
+    "family": "Myxococcaceae",
+    "genus": "Corallococcus",
+    "species": "Corallococcus coralloides",
+    "full scientific name": "<I>Corallococcus</I> <I>coralloides</I> (Thaxter 1892) Reichenbach 2007"
+   }
+  },
+  "Culture and growth conditions": {
+   "culture medium": {
+    "@ref": 13096,
+    "name": "VY/2 AGAR (DSMZ Medium 9)",
+    "growth": "yes",
+    "link": "https://mediadive.dsmz.de/medium/9"
+   },
+   "culture temp": {
+    "@ref": 13096,
+    "growth": "positive",
+    "type": "growth",
+    "temperature": "28"
+   }
+  },
+  "Physiology and metabolism": {},
+  "Sequence information": {}
+ }
+]
