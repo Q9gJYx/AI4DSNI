@@ -2,8 +2,8 @@
 
 The release is tracked in git: the full table, the sample, the media map, the recipes and the
 build manifest. Only the FASTA copy and the download cache are left out; `scripts/build_dsni.py`
-rebuilds them. Once a GitHub release is tagged, Zenodo will archive these files with it and give
-the release a DOI.
+rebuilds them. Release v1.0.0 is archived on Zenodo with these files:
+[10.5281/zenodo.24524178](https://doi.org/10.5281/zenodo.24524178) (all versions: [10.5281/zenodo.24524177](https://doi.org/10.5281/zenodo.24524177)).
 
 ## Contents
 
